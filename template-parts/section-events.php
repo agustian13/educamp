@@ -1,19 +1,18 @@
 <!-- Section 7: Events -->
-<?php
-if ( get_theme_mod( 'educampus_show_events', true ) ) :
-    $event_query = new WP_Query( array(
-        'post_type'      => 'event',
-        'posts_per_page' => 2,
-    ) );
+<?php if ( get_theme_mod( 'educampus_show_events', true ) ) : ?>
+<?php 
+$events_ornament = '';
+if ( get_theme_mod( 'educampus_enable_islamic_ornament', true ) && get_theme_mod( 'educampus_bg_ornament_events', true ) ) {
+    $events_ornament = ' bg-islamic-ornament';
+}
+$events_bg_color = get_theme_mod( 'educampus_bg_color_events', '#eef2e8' );
+$events_bg_color_end = get_theme_mod( 'educampus_bg_color_end_events', $events_bg_color );
+$events_bg_grad_dir = get_theme_mod( 'educampus_bg_grad_dir_events', '135deg' );
 
-    if ( $event_query->have_posts() ) :
-        $events_ornament = '';
-        if ( get_theme_mod( 'educampus_enable_islamic_ornament', true ) && get_theme_mod( 'educampus_bg_ornament_events', true ) ) {
-            $events_ornament = ' bg-islamic-ornament';
-        }
-        $events_bg_color = get_theme_mod( 'educampus_bg_color_events', '#eef2e8' );
-        $events_bg_color_end = get_theme_mod( 'educampus_bg_color_end_events', $events_bg_color );
-        $events_bg_grad_dir = get_theme_mod( 'educampus_bg_grad_dir_events', '135deg' );
+$event_query = new WP_Query( array(
+    'post_type'      => 'event',
+    'posts_per_page' => 2,
+) );
 ?>
 <section id="events" class="section-padding<?php echo esc_attr($events_ornament); ?>" style="background: linear-gradient(<?php echo esc_attr($events_bg_grad_dir); ?>, <?php echo esc_attr($events_bg_color); ?>, <?php echo esc_attr($events_bg_color_end); ?>);">
     <div class="container">
@@ -34,6 +33,7 @@ if ( get_theme_mod( 'educampus_show_events', true ) ) :
             </div>
         </div>
 
+        <?php if ( $event_query->have_posts() ) : ?>
         <div class="row g-4">
             <?php
             $events_layout = get_theme_mod( 'educampus_events_layout', 'grid' );
@@ -104,9 +104,7 @@ if ( get_theme_mod( 'educampus_show_events', true ) ) :
                 wp_reset_postdata();
             ?>
         </div>
+        <?php endif; ?>
     </div>
 </section>
-<?php
-    endif;
-endif;
-?>
+<?php endif; ?>

@@ -1,21 +1,20 @@
 <!-- Section 6b: Pengumuman -->
-<?php
-if ( get_theme_mod( 'educampus_show_announcements', true ) ) :
-    $announcement_query = new WP_Query( array(
-        'post_type'      => 'announcement',
-        'posts_per_page' => 4,
-        'orderby'        => 'date',
-        'order'          => 'DESC',
-    ) );
+<?php if ( get_theme_mod( 'educampus_show_announcements', true ) ) : ?>
+<?php 
+$ann_ornament = '';
+if ( get_theme_mod( 'educampus_enable_islamic_ornament', true ) && get_theme_mod( 'educampus_bg_ornament_announcements', true ) ) {
+    $ann_ornament = ' bg-islamic-ornament';
+}
+$ann_bg_color = get_theme_mod( 'educampus_bg_color_announcements', '#f8f9fa' );
+$ann_bg_color_end = get_theme_mod( 'educampus_bg_color_end_announcements', $ann_bg_color );
+$ann_bg_grad_dir = get_theme_mod( 'educampus_bg_grad_dir_announcements', '135deg' );
 
-    if ( $announcement_query->have_posts() ) :
-        $ann_ornament = '';
-        if ( get_theme_mod( 'educampus_enable_islamic_ornament', true ) && get_theme_mod( 'educampus_bg_ornament_announcements', true ) ) {
-            $ann_ornament = ' bg-islamic-ornament';
-        }
-        $ann_bg_color = get_theme_mod( 'educampus_bg_color_announcements', '#f8f9fa' );
-        $ann_bg_color_end = get_theme_mod( 'educampus_bg_color_end_announcements', $ann_bg_color );
-        $ann_bg_grad_dir = get_theme_mod( 'educampus_bg_grad_dir_announcements', '135deg' );
+$announcement_query = new WP_Query( array(
+    'post_type'      => 'announcement',
+    'posts_per_page' => 4,
+    'orderby'        => 'date',
+    'order'          => 'DESC',
+) );
 ?>
 <section id="pengumuman" class="section-padding<?php echo esc_attr($ann_ornament); ?>" style="background: linear-gradient(<?php echo esc_attr($ann_bg_grad_dir); ?>, <?php echo esc_attr($ann_bg_color); ?>, <?php echo esc_attr($ann_bg_color_end); ?>);">
     <div class="container">
@@ -34,6 +33,7 @@ if ( get_theme_mod( 'educampus_show_announcements', true ) ) :
             </a>
         </div>
 
+        <?php if ( $announcement_query->have_posts() ) : ?>
         <?php
         $ann_layout = get_theme_mod( 'educampus_announcements_layout', 'grid' );
         $col_class = ( $ann_layout === 'list' ) ? 'col-12' : 'col-md-6';
@@ -72,9 +72,7 @@ if ( get_theme_mod( 'educampus_show_announcements', true ) ) :
                     </div>
                 <?php endwhile; wp_reset_postdata(); ?>
             </div>
+        <?php endif; ?>
     </div>
 </section>
-<?php
-    endif;
-endif;
-?>
+<?php endif; ?>
