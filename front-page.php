@@ -27,8 +27,12 @@ if ( empty( $ordered ) ) {
 }
 
 foreach ( $ordered as $key ) {
-    if ( get_theme_mod( "educampus_show_{$key}", true ) ) {
-        get_template_part( "template-parts/section-{$key}" );
+    $show = get_theme_mod( "educampus_show_{$key}", true );
+    if ( $show ) {
+        $template_file = get_template_directory() . '/template-parts/section-' . $key . '.php';
+        if ( file_exists( $template_file ) ) {
+            include $template_file;
+        }
     }
 }
 ?>
