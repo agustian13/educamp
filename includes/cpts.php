@@ -278,11 +278,13 @@ function educampus_seed_unit_groups() {
     }
 
     $groups = array(
-        'yayasan'  => esc_html__( 'Pembina Yayasan', 'educampus' ),
-        'senat'    => esc_html__( 'Senat Akademik', 'educampus' ),
-        'rektorat' => esc_html__( 'Pimpinan Rektorat', 'educampus' ),
-        'dekanat'  => esc_html__( 'Dekan & Pascasarjana', 'educampus' ),
-        'lembaga'  => esc_html__( 'Lembaga & Biro', 'educampus' ),
+        'yayasan'      => esc_html__( 'Pembina Yayasan', 'educampus' ),
+        'senat'        => esc_html__( 'Senat Akademik', 'educampus' ),
+        'rektorat'     => esc_html__( 'Pimpinan Rektorat', 'educampus' ),
+        'dekanat'      => esc_html__( 'Dekan & Pascasarjana', 'educampus' ),
+        'program-studi' => esc_html__( 'Program Studi', 'educampus' ),
+        'lembaga'      => esc_html__( 'Lembaga & Biro', 'educampus' ),
+        'upt'          => esc_html__( 'UPT', 'educampus' ),
     );
 
     foreach ( $groups as $slug => $name ) {
