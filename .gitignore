@@ -1,0 +1,29 @@
+# === Build Artifacts ===
+*.zip
+
+# === Debug / Scratch Files ===
+scratch_*.php
+_test_sister.php
+
+# === AI Tooling ===
+.opencode/
+graphify-out/
+skills/
+.graphifyignore
+
+# === Demo Content Images (large files) ===
+demo-content/uploads/
+
+# === Python Cache ===
+__pycache__/
+*.pyc
+
+# === OS Files ===
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# === WordPress ===
+*.log
+wp-config.php
+.htaccess

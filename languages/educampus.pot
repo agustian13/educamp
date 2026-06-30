@@ -1,0 +1,2611 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: EduCampus Theme\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-06-27 18:33+0200\n"
+"PO-Revision-Date: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: custom-php\n"
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/template-parts/section-testimonials.php
+msgid "\"Belajar di EduCampus memberikan saya landasan teknis yang sangat kuat serta wawasan enterpreneurship. Fasilitas lab komputasi awan di kampus membuat saya siap langsung terjun bekerja di unicorn teknologi Singapura setelah lulus.\""
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/template-parts/section-testimonials.php
+msgid "\"Dosen-dosen di Fakultas Ekonomi sangat suportif. Mereka memfasilitasi magang bersertifikat selama 1 tahun penuh di Kantor Akuntan Publik Big Four, yang mempercepat karir saya sebagai analis keuangan senior.\""
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/cpts.php
+msgid "%s Baru"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/page-pmb.php
+msgid "* Uang Pangkal (DP3) dapat diangsur sebanyak 6 kali selama tahun pertama kuliah berlangsung."
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "1 Utama Besar + List Kecil"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "1. Hero / Banner Utama"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "1. Visi & Misi"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "1. Warna Tema"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "2. Jati Diri & Nilai Dasar"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "2. Sambutan Rektor"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "2. Tipografi (Font)"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "3. Lintasan Sejarah (Milestones)"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "3. Statistik Kampus"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "4. Lambang & Lirik Lagu"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "4. Layout & Visibilitas Section"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "5. Judul & Deskripsi Section"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "5. Struktur Organisasi"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "6. Background & Ornamen Islami"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "6. Dokumen Unduhan"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "7. Hero Banner Profil"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "7. Section PMB CTA (Diatas Footer)"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "8. Pengaturan Halaman Arsip"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "9. Pengaturan Footer"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/archive-program.php
+msgid "ADMISI"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/block-patterns.php
+msgid "Academic Layouts"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/template-parts/single-news-default.php
+msgid "Ada pertanyaan mengenai tata cara pendaftaran, syarat jalur prestasi, atau biaya kuliah?"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/single.php
+msgid "Ada pertanyaan mengenai tata cara pendaftaran, syarat jalur prestasi, atau struktur biaya kuliah?"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/single.php
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/template-parts/single-news-default.php
+msgid "Admisi Pendaftaran"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/import-dummy.php
+msgid "Agenda"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/footer.php
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Agenda Kegiatan"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/footer.php
+msgid "Akademik"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/functions.php
+msgid "Akademik."
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/single-program.php
+msgid "Akreditasi"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/single-faculty.php
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/single-program.php
+msgid "Akreditasi %s"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/page-pmb.php
+msgid "Akreditasi UNGGUL"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Aktifkan Ornamen Islami di Homepage"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/single-lecturer.php
+msgid "Alamat"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Alamat Kampus"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Alamat Kampus (Utility Bar)"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/template-parts/section-testimonials.php
+msgid "Alumni Informatika 2022 - Cloud Architect at ByteDance"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/template-parts/section-testimonials.php
+msgid "Alumni Manajemen 2021 - Financial Analyst at Ernst & Young"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/page-pmb.php
+msgid "Apakah ada beasiswa penuh yang ditawarkan untuk mahasiswa baru?"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/page-pmb.php
+msgid "Apakah berkas rapor harus dilegalisir oleh pihak sekolah?"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Arah Gradasi %s"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/single.php
+msgid "Artikel Terkait"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/template-parts/single-news-magazine.php
+msgid "Artikel ini diterbitkan oleh tim redaksi. Informasi lebih lanjut dapat menghubungi kontak resmi."
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/single.php
+msgid "BAGIKAN ARTIKEL:"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/template-parts/single-news-default.php
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/template-parts/single-news-magazine.php
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/template-parts/single-news-modern.php
+msgid "BAGIKAN:"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "BG %s (Warna 1)"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "BG %s (Warna 2 - Opsional Gradasi)"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/archive-news.php
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/template-parts/section-news.php
+msgid "Baca"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/archive-news.php
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/template-parts/section-announcements.php
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/template-parts/section-news.php
+msgid "Baca Selengkapnya"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Badge Atas"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Badge Section %s"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/page-pmb.php
+msgid "Bagaimana cara melakukan pendaftaran secara online?"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Bagan Interaktif (CSS Tree)"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/template-parts/single-news-magazine.php
+msgid "Bagikan"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/page-jati-diri.php
+msgid "Baik"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/template-parts/section-announcements.php
+msgid "Baru"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/page-pmb.php
+msgid "Beasiswa & Cicilan Fleksibel"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/archive-news.php
+msgid "Belum Ada Berita"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/archive-lecturer.php
+msgid "Belum Ada Data Dosen"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/archive-faculty.php
+msgid "Belum Ada Fakultas"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/single.php
+msgid "Belum ada artikel terkait."
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/template-parts/single-news-magazine.php
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/template-parts/single-news-modern.php
+msgid "Belum ada berita lainnya."
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/template-parts/single-news-default.php
+msgid "Belum ada berita terkait."
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/archive-news.php
+msgid "Belum ada berita yang dipublikasikan. Silakan kembali lagi nanti."
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/single-program.php
+msgid "Belum ada data dosen."
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/single-program.php
+msgid "Belum ada data kurikulum."
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/template-parts/section-partnerships.php
+msgid "Belum ada data mitra. Tambahkan di Admin → Kemitraan."
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/single-program.php
+msgid "Belum ada data prospek karir."
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/archive-dokumen.php
+msgid "Belum ada dokumen tersedia."
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/archive.php
+msgid "Belum ada konten yang tersedia untuk arsip ini."
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/single-faculty.php
+msgid "Belum ada program studi terdaftar untuk fakultas ini."
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/page-jati-diri.php
+msgid "Benar"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/import-dummy.php
+msgid "Beranda"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/archive-faculty.php
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/archive-lecturer.php
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/archive-news.php
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/archive-program.php
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/archive.php
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/index.php
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/search.php
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/single.php
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/taxonomy-program_level.php
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/template-parts/single-news-default.php
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/template-parts/single-news-magazine.php
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/template-parts/single-news-modern.php
+msgid "Berikutnya"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/archive-news.php
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/header.php
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/import-dummy.php
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/template-parts/single-news-default.php
+msgid "Berita"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/template-parts/single-news-magazine.php
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/template-parts/single-news-modern.php
+msgid "Berita Lainnya"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/single.php
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/template-parts/section-news.php
+msgid "Berita Terbaru"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/template-parts/single-news-default.php
+msgid "Berita Terkait"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/footer.php
+msgid "Berita Terkini"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/single-news.php
+msgid "Berita Tidak Ditemukan"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/page-pmb.php
+msgid "Biaya Pendaftaran"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/single-lecturer.php
+msgid "Bidang Keahlian"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Bisa berupa path lokal (contoh: /profil/sambutan-rektor) atau URL lengkap."
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/single.php
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/template-parts/single-news-default.php
+msgid "Brosur Digital PMB"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/archive-dokumen.php
+msgid "Buka"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/single-dokumen.php
+msgid "Buka di Tab Baru"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/page-pmb.php
+msgid "Calon mahasiswa dapat mengklik tombol \"Daftar Sekarang\", kemudian membuat akun di portal PMB, mengunggah berkas persyaratan (rapor/foto/ijazah), dan melakukan pembayaran biaya pendaftaran secara transfer."
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/archive-dokumen.php
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/header.php
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/searchform.php
+msgid "Cari"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/cpts.php
+msgid "Cari %s"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/template-parts/single-news-default.php
+msgid "Cari Berita"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/cpts.php
+msgid "Cari Grup Unit"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/404.php
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/archive.php
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/index.php
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/single.php
+msgid "Cari Informasi"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/cpts.php
+msgid "Cari Jenjang"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/cpts.php
+msgid "Cari Kategori"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/cpts.php
+msgid "Cari Kategori Berita"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/archive-program.php
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/taxonomy-program_level.php
+msgid "Cari Nama Program"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/archive-news.php
+msgid "Cari berita..."
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/archive-dokumen.php
+msgid "Cari dokumen..."
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/archive-lecturer.php
+msgid "Cari dosen..."
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/searchform.php
+msgid "Cari..."
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Carousel Slider (Dinamis/Banyak Slide)"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Carousel Slider (Slide)"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/archive-program.php
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/taxonomy-program_level.php
+msgid "Coba sesuaikan pilihan filter atau kata kunci pencarian Anda."
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Compact List (Minimalis, Ikon)"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/page-pmb.php
+msgid "Contoh: 08123456789"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/archive-program.php
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/taxonomy-program_level.php
+msgid "Contoh: Informatika..."
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Contoh: bi-people-fill, bi-mortarboard-fill, dll."
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Contoh: https://www.youtube.com/watch?v=VIDEO_ID. Prioritas utama."
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Copyright Link %d — Label"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Copyright Link %d — URL"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/single-faculty.php
+msgid "DIDIRIKAN"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/single-faculty.php
+msgid "DOSEN"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/page-pmb.php
+msgid "Daftar Jalur Rapor"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/page-pmb.php
+msgid "Daftar Jalur Reguler"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/page-pmb.php
+msgid "Daftar KIP Kuliah"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/single-program.php
+msgid "Daftar Online"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/page-pmb.php
+msgid "Daftar Online Sekarang"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/functions.php
+msgid "Daftar PMB"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/single-program.php
+msgid "Daftar Sekarang"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/single-faculty.php
+msgid "Daftarkan diri Anda pada program studi favorit di bawah naungan fakultas ini secara online."
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/page-jati-diri.php
+msgid "Dalam implementasinya di lingkungan Institut Agama Islam Latifah Mubarokiyah (IAILM) Suryalaya, filosofi Cageur, Bageur, Bener, Pinter, Singer bertransformasi menjadi landasan visi universitas dalam mencetak Insan Kamil yang berlandaskan nilai-nilai tasawuf."
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/archive-lecturer.php
+msgid "Data dosen sedang dipersiapkan oleh administrator."
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/archive-faculty.php
+msgid "Data fakultas sedang dipersiapkan oleh administrator."
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Default — Akademik (Sidebar, Navy Hero)"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Dekan Fakultas Dakwah"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Dekan Fakultas Syariah"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Dekan Fakultas Tarbiyah"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Deskripsi CTA"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Deskripsi Halaman Berita"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Deskripsi Halaman Dosen"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Deskripsi Halaman Fakultas"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Deskripsi Halaman Program Studi"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Deskripsi Milestone %d"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Deskripsi Pilar %d"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/single-program.php
+msgid "Deskripsi Program Studi"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Deskripsi Section %s"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Deskripsi Tentang Kampus (Footer Kolom 1)"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/template-parts/section-news.php
+msgid "Deskripsi singkat berita terkini seputar kegiatan akademik dan non-akademik."
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/template-parts/section-events.php
+msgid "Detail"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/cpts.php
+msgid "Detail Kemitraan"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/single-faculty.php
+msgid "Detail Prodi"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Diagonal (135deg)"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Diagonal (45deg)"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/page-sejarah.php
+msgid "Didirikan di atas cita-cita luhur mencerdaskan kehidupan bangsa, EduCampus terus tumbuh melesat memimpin transformasi pendidikan nasional tinggi."
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Digunakan jika Anda memilih tipe \"Gambar Saja\"."
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Digunakan saat artikel tidak memiliki featured image. Ukuran ideal: 1200x630 px."
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/single-dokumen.php
+msgid "Dilihat"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/cpts.php
+msgid "Dilihat:"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/footer.php
+msgid "Direktori Dosen"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Direktur Pascasarjana"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/template-parts/section-gallery.php
+msgid "Diskusi Mahasiswa"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/search.php
+msgid "Ditemukan %d hasil untuk pencarian \"%s\""
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/single-dokumen.php
+msgid "Diunduh"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/cpts.php
+msgid "Diunduh:"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Diunggah untuk ditampilkan pada tab Lambang & Identitas Visual."
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/import-dummy.php
+msgid "Dosen"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/single-program.php
+msgid "Dosen Pengajar Utama"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/single-lecturer.php
+msgid "Dosen Tidak Ditemukan"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/single-program.php
+msgid "Dosen Utama"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/archive-lecturer.php
+msgid "Dosen ditemukan"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/archive-dokumen.php
+msgid "Download"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/single-dokumen.php
+msgid "Download File"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/header.php
+msgid "E-Learning"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/cpts.php
+msgid "Edit %s"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/cpts.php
+msgid "Edit Grup Unit"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/cpts.php
+msgid "Edit Jenjang"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/cpts.php
+msgid "Edit Kategori"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/cpts.php
+msgid "Edit Kategori Berita"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/page-pmb.php
+msgid "Ekonomi & Bisnis"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Email Humas"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Email Kampus (Utility Bar)"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/archive-program.php
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/header.php
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/import-dummy.php
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/taxonomy-program_level.php
+msgid "Fakultas"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/footer.php
+msgid "Fakultas & Sekolah"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/page-pmb.php
+msgid "Fakultas / Kelompok Ilmu"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/single-faculty.php
+msgid "Fakultas Tidak Ditemukan"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/cpts.php
+msgid "File Dokumen"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/single-dokumen.php
+msgid "File tidak tersedia"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/archive-lecturer.php
+msgid "Filter"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/archive-program.php
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/taxonomy-program_level.php
+msgid "Filter Prodi"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Font Isi (Body)"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Font Judul (Heading)"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Font untuk H1-H6, badge, tombol, dan label."
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Font untuk paragraf, teks biasa, dan konten."
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/functions.php
+msgid "Footer Akademik"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/functions.php
+msgid "Footer Kolom 1"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/functions.php
+msgid "Footer Kolom 2"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/functions.php
+msgid "Footer Kolom 3"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/functions.php
+msgid "Footer Kolom 4"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/functions.php
+msgid "Footer Menu"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Foto Dekan Dakwah"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Foto Dekan Syariah"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Foto Dekan Tarbiyah"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Foto Direktur Pascasarjana"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Foto Kepala BAAK"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Foto Kepala BAUK"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Foto Kepala LPM"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Foto Kepala LPPM"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Foto Kepala UPT IT"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Foto Ketua Senat"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Foto Ketua Yayasan"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Foto Rektor"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Foto Rektor di Kanan"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Foto Rektor di Kiri"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Foto Wakil Rektor I"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Foto Wakil Rektor II"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Foto Wakil Rektor III"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Galeri Kampus"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Gambar Default Social Share (OG Image)"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Gambar Hero Banner Profil"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Gambar Hero Default (Semua Halaman)"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Gambar Saja (Unggah Gambar)"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Gambar latar default untuk semua halaman yang tidak punya hero spesifik. Biarkan kosong untuk warna navy solid."
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/single-program.php
+msgid "Gelar"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Grid Cards (2 Kolom)"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Grid Cards (3 Kolom)"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Grid Cards (4 Kolom)"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Grid Cards (Efek Hover)"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/cpts.php
+msgid "Grup Unit"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/cpts.php
+msgid "Gunakan File Ini"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Gunakan tombol Enter/baris baru untuk memisahkan setiap poin misi."
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/footer.php
+msgid "Hak Cipta Dilindungi Undang-Undang."
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/archive-lecturer.php
+msgid "Halaman %1$s dari %2$s"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/404.php
+msgid "Halaman Sebelumnya"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/404.php
+msgid "Halaman Tidak Ditemukan"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/search.php
+msgid "Hasil Pencarian: \"%s\""
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Hero / Banner Slider"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/block-patterns.php
+msgid "Hero Tentang (USU Style)"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/block-patterns.php
+msgid "Himne & Mars Lyrics"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/functions.php
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/header.php
+msgid "Home"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Horizontal Scroll (Geser ke Kanan)"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/template-parts/single-news-default.php
+msgid "Hubungan Masyarakat (Humas)"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/page-pmb.php
+msgid "Hubungi Konselor Admisi"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/page-pmb.php
+msgid "Hukum & Ilmu Sosial"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/template-parts/single-news-default.php
+msgid "Humas"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/page-identitas.php
+msgid "Hymne & Mars Universitas"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/page-identitas.php
+msgid "Hymne Kampus"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Icon Statistik %d (Bootstrap Icon Class)"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/page-identitas.php
+msgid "Identitas"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/cpts.php
+msgid "Induk %s:"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/cpts.php
+msgid "Induk Grup Unit"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/cpts.php
+msgid "Induk Grup Unit:"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/cpts.php
+msgid "Induk Kategori"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/cpts.php
+msgid "Induk Kategori Berita"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/cpts.php
+msgid "Induk Kategori Berita:"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/cpts.php
+msgid "Induk Kategori:"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/single-program.php
+msgid "Informasi Admisi"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/single-faculty.php
+msgid "Informasi Fakultas"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/single-dokumen.php
+msgid "Informasi File"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/single-faculty.php
+msgid "Ingin Mendaftar?"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/single-program.php
+msgid "Ingin bergabung dengan program studi ini? Pendaftaran dibuka sekarang."
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/page-pmb.php
+msgid "Institusi dan program studi favorit kami telah terakreditasi peringkat tertinggi secara nasional (BAN-PT) dan internasional."
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Intensitas Ornamen (%)"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/page-pmb.php
+msgid "Isi Formulir Online"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/page-pmb.php
+msgid "JALUR MASUK"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Jabatan Rektor"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Jabatan Senat"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Jabatan Wakil Rektor I"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Jabatan Wakil Rektor II"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Jabatan Wakil Rektor III"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Jabatan Yayasan"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/page-pmb.php
+msgid "Jalur Kemitraan KIP-K"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/page-pmb.php
+msgid "Jalur Pendaftaran PMB"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/page-pmb.php
+msgid "Jalur Prestasi (Rapor)"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/page-pmb.php
+msgid "Jalur Reguler (Tes Tulis)"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/page-pmb.php
+msgid "Jaminan Karir Global"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/page-pmb.php
+msgid "Jangan lewatkan kesempatan meraih beasiswa dan keringanan angsuran biaya pendidikan. Proses verifikasi dokumen berkas hanya butuh waktu 2x24 jam."
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/page-jati-diri.php
+msgid "Jati Diri"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/page-jati-diri.php
+msgid "Jati Diri & Nilai Dasar"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/archive-program.php
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/taxonomy-program_level.php
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/template-parts/section-programs.php
+msgid "Jenjang"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/cpts.php
+msgid "Jenjang Pendidikan"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/template-parts/section-news.php
+msgid "Judul Berita EduCampus"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Judul CTA"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Judul Dokumen %d"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Judul Halaman Berita"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Judul Halaman Dokumen"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Judul Halaman Dosen"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Judul Halaman Fakultas"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Judul Halaman Program Studi"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Judul Milestone %d"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Judul Pilar %d"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Judul Section %s"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Judul Utama"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/page-pmb.php
+msgid "KEUNGGULAN KAMI"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/footer.php
+msgid "Kalender Akademik"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/page-pmb.php
+msgid "Kami menjamin sistem pembelajaran bermutu tinggi yang adaptif dengan iklim industri kerja modern."
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/page-pmb.php
+msgid "Kami menjunjung keterbukaan tanpa ada biaya tersembunyi selama masa studi berlangsung."
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/template-parts/single-news-default.php
+msgid "Kantor Sekretariat Universitas & Pusat Hubungan Media EduCampus."
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/template-parts/single-news-default.php
+msgid "Kata kunci..."
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/archive.php
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/cpts.php
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/index.php
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/search.php
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/single.php
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/template-parts/single-news-default.php
+msgid "Kategori"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/cpts.php
+msgid "Kategori Berita"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/cpts.php
+msgid "Kategori Dokumen"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Ke Bawah (Vertikal)"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Ke Kanan (Horizontal)"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/footer.php
+msgid "Kebijakan Privasi"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/page-pmb.php
+msgid "Kedokteran & Kesehatan"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Kelola data sejarah, visi misi, jati diri, dan identitas kampus untuk halaman profil."
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Kelola konten halaman utama seperti Sambutan Rektor dan Statistik."
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/404.php
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/archive.php
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/page.php
+msgid "Kembali ke Beranda"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Kepala Biro Akademik & Kelembagaan (BAAK)"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Kepala Biro Umum & Keuangan (BAUK)"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Kepala LPPM"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Kepala Lembaga Penjaminan Mutu (LPM)"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Kepala UPT Sistem Informasi & IT"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Kerjasama Strategis"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/header.php
+msgid "Ketik kata kunci pencarian..."
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/single-program.php
+msgid "Ketua Program Studi"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/block-patterns.php
+msgid "Key Stats Grid"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/page-pmb.php
+msgid "Kirim Kontak & Konsultasi Gratis"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/single-dokumen.php
+msgid "Klik tombol download untuk membuka file."
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/single-program.php
+msgid "Kode MK"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/header.php
+msgid "Kontak"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/footer.php
+msgid "Kontak & Lokasi"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/functions.php
+msgid "Kontak dan lokasi."
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/single.php
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/template-parts/single-news-default.php
+msgid "Kontak via WhatsApp"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/single-news.php
+msgid "Konten berita sedang dipersiapkan."
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/single-faculty.php
+msgid "Konten fakultas sedang dipersiapkan administrator."
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/single-program.php
+msgid "Konten program studi sedang dipersiapkan."
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/cpts.php
+msgid "Kosongkan jika tidak ada link."
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/single-program.php
+msgid "Kurikulum"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Kutipan / Quote"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/single-faculty.php
+msgid "LOKASI"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Label Halaman Berita"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Label Halaman Dokumen"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Label Halaman Dosen"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Label Halaman Fakultas"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Label Halaman Program Studi"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Label Statistik %d"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/page.php
+msgid "Laman Tidak Ditemukan"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/page-identitas.php
+msgid "Lambang & Identitas Visual"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/block-patterns.php
+msgid "Lambang & Makna Detail"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/page-identitas.php
+msgid "Lambang Kampus"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/header.php
+msgid "Langsung ke konten utama"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Layout Agenda / Events"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Layout Berita"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Layout Fakultas"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Layout Halaman Detail Berita"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Layout Pengumuman"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Layout Prestasi"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Layout Program Studi"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Layout Sambutan Rektor"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/footer.php
+msgid "Lembaga Penelitian (LPPM)"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/cpts.php
+msgid "Lihat %s"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/template-parts/section-news.php
+msgid "Lihat Berita Lainnya"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/archive-lecturer.php
+msgid "Lihat Profil"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/template-parts/section-events.php
+msgid "Lihat Semua Agenda"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/template-parts/section-news.php
+msgid "Lihat Semua Berita"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/template-parts/section-programs.php
+msgid "Lihat Semua Program Studi"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Limit Jumlah Berita"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Line Minimalist (Tanpa Shadow)"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Link Facebook"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Link Instagram"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Link Tombol Kedua"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Link Tombol Utama"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Link Twitter/X"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Link YouTube"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Lirik Hymne Kampus"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Lirik Mars Kampus"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "List Full-Width (Daftar Vertikal)"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "List Minimalist (Baris Tipis)"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "List Stacked (Kecil & Ramping)"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "List Stacked (Lebih Kompak)"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/functions.php
+msgid "Logo, deskripsi, dan media sosial."
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/single-faculty.php
+msgid "MAHASISWA"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/index.php
+msgid "Maaf, apa yang Anda cari tidak dapat kami temukan. Coba cari dengan kata kunci lain."
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/404.php
+msgid "Maaf, halaman yang Anda cari tidak tersedia atau telah dipindahkan. Silakan periksa kembali URL atau gunakan navigasi di atas."
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/page.php
+msgid "Maaf, halaman yang Anda tuju tidak terdaftar atau telah dihapus."
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/search.php
+msgid "Maaf, tidak ada konten yang cocok dengan kata kunci pencarian Anda. Coba dengan kata kunci lain."
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Magazine — Cover Story (Featured Image Hero, No Sidebar)"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Majalah Grid (1 Besar + 2 Sedang + 4 Kecil)"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/page-identitas.php
+msgid "Makna Lambang Universitas"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/page-identitas.php
+msgid "Mars Kampus"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/single-program.php
+msgid "Masa Studi"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Masukkan URL video .mp4. Dipakai jika YouTube kosong."
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Masukkan URL video YouTube Hymne Kampus. Jika diisi akan menampilkan video, bukan teks lirik."
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Masukkan URL video YouTube Mars Kampus. Jika diisi akan menampilkan video, bukan teks lirik."
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Masukkan judul dokumen %d (misal: Statuta Universitas)."
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/page-pmb.php
+msgid "Masukkan nama lengkap..."
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/single-faculty.php
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/single-program.php
+msgid "Media Sosial"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/page-jati-diri.php
+msgid "Melalui manifestasi filosofi ini, IAILM Suryalaya berkomitmen melahirkan lulusan yang seimbang: tajam secara intelektual, namun tetap kokoh secara spiritual."
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Menambahkan pattern geometri Islami sebagai overlay di atas warna background section."
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/archive-program.php
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/taxonomy-program_level.php
+msgid "Menampilkan %s Program Studi"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/search.php
+msgid "Menampilkan halaman %d dari %d"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/page-pmb.php
+msgid "Mengapa Memilih EduCampus?"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/functions.php
+msgid "Menu Theme"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/single-program.php
+msgid "Metode Kuliah"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/single-faculty.php
+msgid "Misi Fakultas"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/single-program.php
+msgid "Misi Program Studi"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Modern — Clean (Gradient Header, Centered, No Sidebar)"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/single-dokumen.php
+msgid "Nama File"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/cpts.php
+msgid "Nama Grup Unit Baru"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/cpts.php
+msgid "Nama Jenjang Baru"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/cpts.php
+msgid "Nama Kategori Baru"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/cpts.php
+msgid "Nama Kategori Berita Baru"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Nama Ketua Senat"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Nama Ketua Yayasan"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/page-pmb.php
+msgid "Nama Lengkap"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/single-program.php
+msgid "Nama Mata Kuliah"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Nama Rektor"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Nama Wakil Rektor I"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Nama Wakil Rektor II"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Nama Wakil Rektor III"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/template-parts/section-hero.php
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/template-parts/section-news.php
+msgid "Next"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Nilai/Angka Statistik %d"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Nomor Telepon"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Nomor WhatsApp"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/page-pmb.php
+msgid "Nomor WhatsApp/Phone"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Ornamen di %s"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Overlay Gambar (Modern)"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/search.php
+msgid "PENCARIAN"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/page-pmb.php
+msgid "PENERIMAAN MAHASISWA BARU (PMB) T.A. 2026/2027"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/page-pmb.php
+msgid "PERTANYAAN UMUM"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/import-dummy.php
+msgid "PMB"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "PMB CTA"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "PMB CTA (Diatas Footer)"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/page.php
+msgid "Pages:"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Paragraf Sambutan 1"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Paragraf Sambutan 2"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/header.php
+msgid "Pencarian Informasi"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/search.php
+msgid "Pencarian Lanjutan"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/functions.php
+msgid "Pencarian: "
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/functions.php
+msgid "Pencarian: \""
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/page-pmb.php
+msgid "Pendaftaran Gelombang I Dibuka Hingga Akhir Bulan Ini"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/footer.php
+msgid "Pendaftaran PMB"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/single-faculty.php
+msgid "Pendaftaran PMB Online"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/page-pmb.php
+msgid "Pendaftaran menggunakan nilai rapor semester 1-5 tanpa melalui tes tulis. Berkesempatan mendapatkan beasiswa penuh."
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/single-lecturer.php
+msgid "Penelitian Terbaru"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Pengaturan Header"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Pengaturan Homepage"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/single-program.php
+msgid "Pengelola Program Studi"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/footer.php
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/template-parts/section-announcements.php
+msgid "Pengumuman"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Pengumuman Resmi"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Penjelasan/Makna Lambang"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/single.php
+msgid "Penulis di EduCampus"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Pernyataan Misi (Satu baris per-poin)"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Pernyataan Visi"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/header.php
+msgid "Perpustakaan"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/template-parts/section-gallery.php
+msgid "Perpustakaan Kampus"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/footer.php
+msgid "Peta Situs"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/cpts.php
+msgid "Pilih File"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/cpts.php
+msgid "Pilih File Dokumen"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/page-pmb.php
+msgid "Pilih Program Studi..."
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/page-pmb.php
+msgid "Pilih jalur pendaftaran yang paling sesuai dengan prestasi atau kebutuhan Anda."
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/archive-program.php
+msgid "Pilih program studi impian Anda dengan kurikulum berstandar internasional dan peluang karir yang cemerlang."
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Pilih tampilan untuk halaman berita tunggal (single news)."
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/archive-program.php
+msgid "Pilihan Program Studi"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/page-pmb.php
+msgid "Pilihan terbaik untuk jenjang studi Sarjana, Diploma, dan Pascasarjana dengan kurikulum unggulan, fasilitas lengkap, serta jaringan kemitraan industri global."
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/header.php
+msgid "Pimpinan"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/page-jati-diri.php
+msgid "Pintar"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/search.php
+msgid "Post"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/single-dokumen.php
+msgid "Pratinjau tidak tersedia"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Prestasi Kampus"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/template-parts/section-hero.php
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/template-parts/section-news.php
+msgid "Previous"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/header.php
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/import-dummy.php
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/page-struktur-organisasi.php
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/template-parts/section-programs.php
+msgid "Profil"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/single-faculty.php
+msgid "Profil Dekan"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/page-profil.php
+msgid "Profil Institusi"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Profil Kampus (Tentang)"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/archive-program.php
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/taxonomy-program_level.php
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/template-parts/section-programs.php
+msgid "Profil Prodi"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/single-lecturer.php
+msgid "Profil akademisi sedang diperbarui."
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/footer.php
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/header.php
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/import-dummy.php
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/single-faculty.php
+msgid "Program Studi"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/page-pmb.php
+msgid "Program Studi Minat"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/single-program.php
+msgid "Program Studi Tidak Ditemukan"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/page-pmb.php
+msgid "Program khusus subsidi penuh biaya hidup dan kuliah bagi pelamar berprestasi yang terkendala kemampuan finansial keluarga."
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/page-pmb.php
+msgid "Program magang eksklusif 1 tahun di BUMN serta perusahaan teknologi terkemuka menjamin keterserapan kerja lulusan yang tinggi."
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/single-program.php
+msgid "Prospek Karir"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/single-program.php
+msgid "Prospek Pekerjaan Lulusan"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/single-lecturer.php
+msgid "Publikasi Ilmiah Terpilih"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Quick Link %d — Label"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Quick Link %d — URL"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/page-pmb.php
+msgid "Rancang Masa Depanmu <span class=\"text-campus-gold\">Bersama EduCampus</span>"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/block-patterns.php
+msgid "Rankings Bar"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/template-parts/single-news-magazine.php
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/template-parts/single-news-modern.php
+msgid "Redaksi & Tim Publikasi"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/header.php
+msgid "Repository"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/archive-lecturer.php
+msgid "Reset"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/archive-program.php
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/taxonomy-program_level.php
+msgid "Reset Filter"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/template-parts/section-testimonials.php
+msgid "Rian Hidayat, S.Kom."
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/page-pmb.php
+msgid "Rincian Biaya & Beasiswa"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/page-pmb.php
+msgid "Rincian Biaya Kuliah Terjangkau"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/single-program.php
+msgid "Ringkasan"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/single-lecturer.php
+msgid "Riwayat Pendidikan"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/page-pmb.php
+msgid "S1 Ilmu Hukum"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/page-pmb.php
+msgid "S1 Manajemen & Bisnis"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/page-pmb.php
+msgid "S1 Sistem Informasi (Unggul)"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/page-pmb.php
+msgid "S1 Teknik Informatika (Unggul)"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/header.php
+msgid "SIAKAD"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/single-program.php
+msgid "SK Akreditasi"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/single-program.php
+msgid "SKS"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/page-pmb.php
+msgid "SPP Per Semester"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/page-pmb.php
+msgid "STRUKTUR BIAYA"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Sambutan Rektor"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/template-parts/section-hero.php
+msgid "Scroll"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/page-jati-diri.php
+msgid "Sebagai institusi pendidikan tinggi yang berakar pada tradisi pesantren, IAILM tidak semata-mata mengejar capaian kecerdasan intelektual yang direpresentasikan melalui indeks prestasi dan gelar akademik, melainkan mengintegrasikan ilmu amaliah dan amal ilmiah secara sinergis guna melahirkan lulusan dengan profil unggul pada aspek-aspek berikut:"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/archive-faculty.php
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/archive-lecturer.php
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/archive-news.php
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/archive-program.php
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/archive.php
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/index.php
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/search.php
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/single.php
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/taxonomy-program_level.php
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/template-parts/single-news-default.php
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/template-parts/single-news-magazine.php
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/template-parts/single-news-modern.php
+msgid "Sebelumnya"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Seberapa tebal ornamen terlihat (5=sangat tipis, 30=sangat jelas)."
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/page-jati-diri.php
+msgid "Sehat"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/header.php
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/page-sejarah.php
+msgid "Sejarah"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/page-sejarah.php
+msgid "Sejarah & Lintasan Sejarah"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/single-program.php
+msgid "Sekretaris Program Studi"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/page-pmb.php
+msgid "Seleksi berbasis ujian komputer (CBT) mandiri untuk menyaring bakat akademis dasar calon mahasiswa secara komprehensif."
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/archive-faculty.php
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/archive.php
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/index.php
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/template-parts/section-faculties.php
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/template-parts/section-news.php
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/template-parts/section-rector.php
+msgid "Selengkapnya"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/archive-dokumen.php
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/archive-news.php
+msgid "Semua"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/cpts.php
+msgid "Semua %s"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/template-parts/section-news.php
+msgid "Semua Berita"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/archive-program.php
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/taxonomy-program_level.php
+msgid "Semua Fakultas"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/cpts.php
+msgid "Semua Grup Unit"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/archive-program.php
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/cpts.php
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/taxonomy-program_level.php
+msgid "Semua Jenjang"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/cpts.php
+msgid "Semua Kategori"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/cpts.php
+msgid "Semua Kategori Berita"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/template-parts/section-announcements.php
+msgid "Semua Pengumuman"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/archive-lecturer.php
+msgid "Semua Prodi"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Seret (drag) item di bawah untuk mengatur urutan tampilan section."
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/single-program.php
+msgid "Sertifikat"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Sesuaikan warna dan tipografi tema sesuai identitas kampus Anda."
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/functions.php
+msgid "Sidebar"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/functions.php
+msgid "Sidebar utama untuk blog dan arsip."
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/page-pmb.php
+msgid "Silakan tinggalkan nomor kontak Anda. Tim konselor kami akan segera menghubungi untuk membantu proses pendaftaran."
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/template-parts/section-testimonials.php
+msgid "Siti Nurhaliza, S.E."
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/page-pmb.php
+msgid "Skema kemudahan cicilan biaya kuliah bulanan tanpa bunga serta beasiswa prestasi penuh 100% untuk mahasiswa berbakat."
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Static Banner (Satu Slide Saja)"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/cpts.php
+msgid "Statistik"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Statistik Kampus"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/single-program.php
+msgid "Struktur Kurikulum"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/page-struktur-organisasi.php
+msgid "Struktur Organisasi"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Style Statistik"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/footer.php
+msgid "Syarat & Ketentuan"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/template-parts/single-news-magazine.php
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/template-parts/single-news-modern.php
+msgid "TAGS:"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/page-identitas.php
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/page-jati-diri.php
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/page-profil.php
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/page-sejarah.php
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/page-struktur-organisasi.php
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/page-visi-misi.php
+msgid "TENTANG KAMPUS"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Tahun Milestone %d"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/cpts.php
+msgid "Tambah %s Baru"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/cpts.php
+msgid "Tambah Baru"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/cpts.php
+msgid "Tambah Grup Unit Baru"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/cpts.php
+msgid "Tambah Jenjang Baru"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/cpts.php
+msgid "Tambah Kategori Baru"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/cpts.php
+msgid "Tambah Kategori Berita Baru"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Tampilan Tema"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/archive-dokumen.php
+msgid "Tampilan:"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Tampilkan %s"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/archive-lecturer.php
+msgid "Tampilkan Semua"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Tampilkan Utility Bar (Info & Quick Link di Atas)"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/single-dokumen.php
+msgid "Tanggal Terbit"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/single-program.php
+msgid "Tanya Admisi (WA)"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/page-pmb.php
+msgid "Tanya Admisi via WA"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/page-pmb.php
+msgid "Tanya Jawab PMB"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/footer.php
+msgid "Tautan Cepat"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/functions.php
+msgid "Tautan cepat."
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/page-pmb.php
+msgid "Teknik & Ilmu Komputer"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Teks Tombol 1"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Teks Tombol 2"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Teks Tombol Kedua (CTA 2)"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/functions.php
+msgid "Teks Tombol PMB Header"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Teks Tombol Utama (CTA 1)"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Teks penjelasan makna lambang atau isi statuta lambang. Mendukung tag HTML dasar."
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/header.php
+msgid "Temukan berita, program studi, fakultas, atau artikel di %s"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/footer.php
+msgid "Tentang Kampus"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Tentukan jumlah berita yang ditampilkan di homepage."
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/page-jati-diri.php
+msgid "Terampil"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/archive-program.php
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/taxonomy-program_level.php
+msgid "Terapkan Filter"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Testimoni Alumni"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/archive-lecturer.php
+msgid "Tidak Ada Dosen dengan Awal Huruf \"%s\""
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/archive-lecturer.php
+msgid "Tidak Ada Dosen dengan Awal Huruf \"%s\" di Program Studi Terpilih"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/archive-lecturer.php
+msgid "Tidak Ada Dosen di Program Studi Terpilih"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/search.php
+msgid "Tidak Ada Hasil Ditemukan"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/archive.php
+msgid "Tidak Ada Konten"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/index.php
+msgid "Tidak Ada Konten Ditemukan"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/archive-program.php
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/taxonomy-program_level.php
+msgid "Tidak Ada Program Studi Ditemukan"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/cpts.php
+msgid "Tidak ada %s ditemukan di Trash."
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/cpts.php
+msgid "Tidak ada %s ditemukan."
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/template-parts/section-news.php
+msgid "Tidak ada berita tambahan."
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/single-dokumen.php
+msgid "Tipe"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Tipe Bagan Organisasi"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Tipe Hero Banner"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/page-visi-misi.php
+msgid "Tri Dharma Perguruan Tinggi"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/functions.php
+msgid "URL Tombol PMB Header"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "URL Tombol Selengkapnya"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/cpts.php
+msgid "URL Website Mitra"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "URL/Tautan Tombol 1"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "URL/Tautan Tombol 2"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/page-pmb.php
+msgid "Uang Pangkal (DP3)*"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/single-program.php
+msgid "Unduh PDF"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Unggah File Dokumen %d (PDF, dll.)"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Unggah Gambar Bagan Organisasi"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Unggah Lambang/Logo Institusi"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Unggah file untuk dokumen %d."
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Unggah foto profil untuk Ketua Senat."
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Unggah foto profil untuk Ketua Yayasan."
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Unggah foto profil untuk Rektor."
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Unggah foto profil untuk Wakil Rektor I."
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Unggah foto profil untuk Wakil Rektor II."
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Unggah foto profil untuk Wakil Rektor III."
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Unggah gambar latar untuk hero halaman profil. Jika kosong, menggunakan gambar default di bawah."
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/page-pmb.php
+msgid "Untuk seleksi awal dokumen digital/online, Anda cukup memindai (scan) rapor asli semester 1 sampai 5. Legalisir sekolah baru diwajibkan saat proses daftar ulang secara fisik setelah dinyatakan lulus seleksi."
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/cpts.php
+msgid "Update Grup Unit"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/cpts.php
+msgid "Update Jenjang"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/cpts.php
+msgid "Update Kategori"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/cpts.php
+msgid "Update Kategori Berita"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/cpts.php
+msgid "Upload / URL File"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/cpts.php
+msgid "Upload file PDF, DOC, XLS, atau masukkan URL langsung."
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Urutan Section (Drag & Drop)"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Video Background (Full-screen, No Overlay)"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/header.php
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/page-visi-misi.php
+msgid "Visi & Misi"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/single-faculty.php
+msgid "Visi Fakultas"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/single-program.php
+msgid "Visi Program Studi"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/template-parts/section-events.php
+msgid "WIB"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Warna Aksen (Secondary/Gold)"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Warna Aksen Gelap (Secondary Dark)"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Warna Aksen Terang (Secondary Light)"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Warna Ornamen"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Warna Utama (Primary/Navy)"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Warna Utama Gelap (Primary Dark)"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Warna Utama Terang (Primary Light)"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Warna dominan untuk header, footer, tombol, dan elemen utama."
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Warna pattern ornamen Islami (default: gold/aksen tema)."
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "Warna untuk badge, aksen, dan highlight."
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/template-parts/section-gallery.php
+msgid "Wisuda Kampus"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/page-pmb.php
+msgid "Ya, kami memiliki jalur Beasiswa Prestasi Akademis (berdasarkan peringkat rapor) dan Beasiswa Non-Akademis (atlet/seni/tahfidz Al-Qur\'an) yang mencakup pembebasan SPP secara penuh."
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "YouTube Hymne (URL)"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "YouTube Mars (URL)"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/single-dokumen.php
+msgid "dilihat"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/single-dokumen.php
+msgid "diunduh"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/template-parts/single-news-modern.php
+msgid "menit"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/template-parts/single-news-magazine.php
+msgid "menit baca"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "— URL MP4 (Self-hosted)"
+msgstr ""
+
+#: D:/SERVER/htdocs/campus/wp-content/themes/educamp-theme/includes/customizer.php
+msgid "— URL YouTube"
+msgstr ""
+

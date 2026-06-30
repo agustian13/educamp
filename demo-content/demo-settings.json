@@ -1,0 +1,81 @@
+{
+    "theme_mods_educamp-theme": {
+        "0": false,
+        "nav_menu_locations": {
+            "primary": 21
+        },
+        "custom_css_post_id": -1,
+        "educampus_font_heading": "Plus Jakarta Sans",
+        "educampus_font_body": "Plus Jakarta Sans",
+        "educampus_color_primary": "#196618",
+        "educampus_visi": "Menjadi pelopor perguruan tinggi nasional berkelas dunia (World Class University) yang unggul, inovatif, mengabdi kepada kepentingan bangsa dan kemanusiaan berlandaskan nilai luhur Pancasila. dan",
+        "educampus_header_quick_links": "{\"label\":\"SIAKAD\",\"url\":\"https://siakad.kampus.ac.id\"}, {\"label\":\"E-Learning\",\"url\":\"https://elearning.kampus.ac.id\"}, {\"label\":\"Perpustakaan\",\"url\":\"https://lib.kampus.ac.id\"}, {\"label\":\"Repository\",\"url\":\"https://repo.kampus.ac.id\"}",
+        "educampus_quick_link_1_url": "https://iailm.siakadcloud.com/gate/login",
+        "educampus_pmb_cta_btn1_url": "https://pmb.iailm.ac.id",
+        "educampus_hero_btn1_url": "https://pmb.iailm.ac.id",
+        "educampus_default_hero_image": "{{SITE_URL}}/wp-content/uploads/2026/06/featured-129-photo-1589391886645-d51941baf7fb.jpg",
+        "educampus_header_pmb_url": "https://pmb.iailm.ac.id",
+        "educampus_home_rector_p1": "Assalamu'alaikum Wr. Wb. Selamat datang di portal resmi Institut Agama Islam Latifah Mubarokiyah (IAILM). Kami merasa terhormat dapat menjadi bagian dari perjalanan akademis Anda menuju kesuksesan profesional dan intelektual.",
+        "educampus_home_rector_p2": "Di era transformasi digital ini, IAILM terus berkomitmen untuk menyelaraskan kurikulum dengan kebutuhan industri, meningkatkan publikasi jurnal internasional, serta memberikan beasiswa penuh bagi putra-putri berprestasi bangsa.",
+        "educampus_home_rector_image": "{{SITE_URL}}/wp-content/uploads/2026/06/sister-364-asep-salahudin.png",
+        "educampus_home_rector_name": "Dr. H. Asep Salahudin, M.Ag",
+        "educampus_home_rector_name_title": "Rektor IAILM",
+        "educampus_home_rector_title": "Selamat Datang di IAILM"
+    },
+    "sidebars_widgets": {
+        "wp_inactive_widgets": [
+            "block-2",
+            "block-3",
+            "block-4",
+            "block-5",
+            "block-6"
+        ],
+        "array_version": 3
+    },
+    "widget_block": {
+        "2": {
+            "content": "<!-- wp:search /-->"
+        },
+        "3": {
+            "content": "<!-- wp:group --><div class=\"wp-block-group\"><!-- wp:heading --><h2>Pos-pos Terbaru</h2><!-- /wp:heading --><!-- wp:latest-posts /--></div><!-- /wp:group -->"
+        },
+        "4": {
+            "content": "<!-- wp:group --><div class=\"wp-block-group\"><!-- wp:heading --><h2>Komentar Terbaru</h2><!-- /wp:heading --><!-- wp:latest-comments {\"displayAvatar\":false,\"displayDate\":false,\"displayExcerpt\":false} /--></div><!-- /wp:group -->"
+        },
+        "5": {
+            "content": "<!-- wp:group --><div class=\"wp-block-group\"><!-- wp:heading --><h2>Arsip</h2><!-- /wp:heading --><!-- wp:archives /--></div><!-- /wp:group -->"
+        },
+        "6": {
+            "content": "<!-- wp:group --><div class=\"wp-block-group\"><!-- wp:heading --><h2>Kategori</h2><!-- /wp:heading --><!-- wp:categories /--></div><!-- /wp:group -->"
+        },
+        "_multiwidget": 1
+    },
+    "widget_search": {
+        "_multiwidget": 1
+    },
+    "widget_text": {
+        "1": [],
+        "_multiwidget": 1
+    },
+    "widget_custom_html": {
+        "_multiwidget": 1
+    },
+    "widget_nav_menu": {
+        "_multiwidget": 1
+    },
+    "nav_menu_options": {
+        "0": false,
+        "auto_add": []
+    },
+    "siteurl": "{{SITE_URL}}",
+    "home": "{{SITE_URL}}",
+    "blogname": "IAILM",
+    "blogdescription": "",
+    "category_base": "",
+    "permalink_structure": "/%year%/%monthnum%/%day%/%postname%/",
+    "posts_per_page": "10",
+    "show_on_front": "posts",
+    "page_on_front": "0",
+    "page_for_posts": "0",
+    "sticky_posts": []
+}

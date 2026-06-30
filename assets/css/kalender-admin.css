@@ -1,0 +1,243 @@
+/* Kalender Akademik Admin Styles */
+
+/* Status Bar */
+.kalender-status-bar {
+    background: #f0f6fc;
+    padding: 12px 16px;
+    border-left: 4px solid #2271b1;
+    margin: 16px 0;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    flex-wrap: wrap;
+}
+.kalender-status-bar .separator {
+    color: #ccc;
+}
+
+/* Toolbar */
+.kalender-toolbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 16px 0;
+    gap: 12px;
+    flex-wrap: wrap;
+}
+.kalender-toolbar-left,
+.kalender-toolbar-right {
+    display: flex;
+    gap: 8px;
+    align-items: center;
+}
+
+/* Settings Card */
+.kalender-settings-card {
+    background: #fff;
+    border: 1px solid #c3c4c7;
+    box-shadow: 0 1px 3px rgba(0,0,0,.04);
+    margin-bottom: 20px;
+}
+.kalender-settings-card h2 {
+    margin: 0;
+    padding: 12px 16px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 14px;
+    cursor: pointer;
+    user-select: none;
+}
+.kalender-settings-card h2 .dashicons {
+    color: #2271b1;
+}
+.kalender-toggle-settings {
+    margin-left: auto;
+    padding: 0 !important;
+    min-height: 28px !important;
+    min-width: 28px !important;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.kalender-settings-body {
+    padding: 0 16px 16px;
+}
+.kalender-settings-body.collapsed {
+    display: none;
+}
+
+/* Event List Table */
+.kalender-events-list {
+    margin-top: 16px;
+}
+.kalender-color-dot {
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    border-radius: 50%;
+    vertical-align: middle;
+    border: 1px solid rgba(0,0,0,.1);
+}
+.kalender-type-badge {
+    display: inline-block;
+    padding: 2px 8px;
+    border-radius: 4px;
+    font-size: 12px;
+    font-weight: 600;
+    white-space: nowrap;
+}
+.kalender-desc-cell {
+    max-width: 250px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    color: #666;
+}
+#kalender-table .column-actions {
+    text-align: center;
+}
+#kalender-table .btn-edit-event,
+#kalender-table .btn-delete-event {
+    padding: 0 6px !important;
+}
+#kalender-table .btn-edit-event .dashicons,
+#kalender-table .btn-delete-event .dashicons {
+    font-size: 16px;
+    width: 16px;
+    height: 16px;
+    line-height: 16px;
+}
+
+/* Empty State */
+#kalender-empty-row td {
+    background: #f9f9f9;
+}
+
+/* Modal */
+.kalender-modal {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 100000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.kalender-modal-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0,0,0,.6);
+}
+.kalender-modal-content {
+    position: relative;
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 8px 40px rgba(0,0,0,.3);
+    width: 100%;
+    max-width: 600px;
+    max-height: 90vh;
+    overflow-y: auto;
+    animation: kalender-modal-in .2s ease-out;
+}
+@keyframes kalender-modal-in {
+    from { opacity: 0; transform: translateY(-20px); }
+    to   { opacity: 1; transform: translateY(0); }
+}
+.kalender-modal-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 16px 20px;
+    border-bottom: 1px solid #e2e8f0;
+}
+.kalender-modal-header h2 {
+    margin: 0;
+    font-size: 16px;
+}
+.kalender-modal-close {
+    background: none;
+    border: none;
+    font-size: 24px;
+    cursor: pointer;
+    color: #666;
+    padding: 0;
+    line-height: 1;
+}
+.kalender-modal-close:hover {
+    color: #000;
+}
+.kalender-modal-body {
+    padding: 20px;
+}
+.kalender-modal-footer {
+    display: flex;
+    justify-content: flex-end;
+    gap: 8px;
+    padding: 12px 20px;
+    border-top: 1px solid #e2e8f0;
+    background: #f9fafb;
+    border-radius: 0 0 8px 8px;
+}
+
+/* Form Groups */
+.kalender-form-group {
+    margin-bottom: 16px;
+}
+.kalender-form-group label {
+    display: block;
+    font-weight: 600;
+    margin-bottom: 4px;
+    font-size: 13px;
+}
+.kalender-form-group input[type="text"],
+.kalender-form-group input[type="date"],
+.kalender-form-group select,
+.kalender-form-group textarea {
+    width: 100%;
+}
+.kalender-form-row {
+    display: flex;
+    gap: 16px;
+}
+.kalender-form-row .kalender-half {
+    flex: 1;
+}
+
+/* Notice animation */
+#kalender-notice .notice {
+    margin: 8px 0;
+    animation: kalender-fade-in .3s ease;
+}
+@keyframes kalender-fade-in {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
+/* Responsive */
+@media (max-width: 782px) {
+    .kalender-toolbar {
+        flex-direction: column;
+        align-items: stretch;
+    }
+    .kalender-toolbar-left,
+    .kalender-toolbar-right {
+        justify-content: flex-start;
+    }
+    .kalender-form-row {
+        flex-direction: column;
+        gap: 0;
+    }
+    .kalender-modal-content {
+        margin: 16px;
+        max-height: calc(100vh - 32px);
+    }
+    #kalender-table .column-desc {
+        display: none;
+    }
+}
