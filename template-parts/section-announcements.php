@@ -33,12 +33,12 @@ $announcement_query = new WP_Query( array(
             </a>
         </div>
 
-        <?php if ( $announcement_query->have_posts() ) : ?>
         <?php
         $ann_layout = get_theme_mod( 'educampus_announcements_layout', 'grid' );
         $col_class = ( $ann_layout === 'list' ) ? 'col-12' : 'col-md-6';
         ?>
-            <div class="row g-4">
+        <div class="row g-4">
+            <?php if ( $announcement_query->have_posts() ) : ?>
                 <?php while ( $announcement_query->have_posts() ) : $announcement_query->the_post(); ?>
                     <div class="<?php echo esc_attr( $col_class ); ?>">
                         <div class="card border-0 shadow-campus-soft rounded-campus overflow-hidden bg-white h-100 transform-hover">
@@ -71,8 +71,16 @@ $announcement_query = new WP_Query( array(
                         </div>
                     </div>
                 <?php endwhile; wp_reset_postdata(); ?>
-            </div>
-        <?php endif; ?>
+            <?php else : ?>
+                <div class="col-12 text-center py-5">
+                    <div class="py-4">
+                        <i class="bi bi-megaphone text-campus-gold display-1 mb-3 opacity-50"></i>
+                        <h4 class="font-heading fw-bold text-campus-navy mb-2">Belum Ada Pengumuman</h4>
+                        <p class="text-campus-muted mb-0">Pengumuman resmi akan segera diunggah.</p>
+                    </div>
+                </div>
+            <?php endif; ?>
+        </div>
     </div>
 </section>
 <?php endif; ?>

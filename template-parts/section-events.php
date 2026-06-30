@@ -33,8 +33,8 @@ $event_query = new WP_Query( array(
             </div>
         </div>
 
-        <?php if ( $event_query->have_posts() ) : ?>
         <div class="row g-4">
+            <?php if ( $event_query->have_posts() ) : ?>
             <?php
             $events_layout = get_theme_mod( 'educampus_events_layout', 'grid' );
             $col_class = ( $events_layout === 'list' ) ? 'col-12' : 'col-lg-6';
@@ -102,9 +102,17 @@ $event_query = new WP_Query( array(
             <?php
                 endwhile;
                 wp_reset_postdata();
+            else :
             ?>
+                <div class="col-12 text-center py-5">
+                    <div class="py-4">
+                        <i class="bi bi-calendar-event text-campus-gold display-1 mb-3 opacity-50"></i>
+                        <h4 class="font-heading fw-bold text-campus-navy mb-2">Belum Ada Agenda</h4>
+                        <p class="text-campus-muted mb-0">Agenda kegiatan akan segera diumumkan.</p>
+                    </div>
+                </div>
+            <?php endif; ?>
         </div>
-        <?php endif; ?>
     </div>
 </section>
 <?php endif; ?>
