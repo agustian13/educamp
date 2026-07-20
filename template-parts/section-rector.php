@@ -33,7 +33,7 @@ $rector_bg_grad_dir = get_theme_mod( 'educampus_bg_grad_dir_rector', '135deg' );
                 <div class="position-relative d-inline-block">
                     <!-- Gold bracket border -->
                     <div class="position-absolute border border-5 border-campus-gold rounded-campus" style="top: 20px; left: 20px; right: -20px; bottom: -20px; z-index: 0;"></div>
-                    <img src="<?php echo esc_url( $rector_image ); ?>" class="img-fluid rounded-campus position-relative z-1 shadow-campus-med" alt="<?php echo esc_attr( $rector_name ); ?>" style="max-height: 480px; object-fit: cover;">
+                    <img loading="lazy" src="<?php echo esc_url( $rector_image ); ?>" class="img-fluid rounded-campus position-relative z-1 shadow-campus-med" alt="<?php echo esc_attr( $rector_name ); ?>" width="480" height="480" style="max-height: 480px; object-fit: cover;">
                 </div>
             </div>
             

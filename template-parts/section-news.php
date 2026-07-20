@@ -316,7 +316,7 @@ $news_bg_grad_dir = get_theme_mod( 'educampus_bg_grad_dir_news', '135deg' );
                                             <?php if ( $post_2['id'] > 0 ) : ?>
                                                 <?php echo $post_2['thumbnail']; ?>
                                             <?php else : ?>
-                                                <img loading="lazy" src="https://images.unsplash.com/photo-1541339907198-e08756dedf3f?q=80&w=400&auto=format&fit=crop" class="w-100 h-100 object-fit-cover" alt="EduCampus Slide">
+                                                <img loading="lazy" src="https://images.unsplash.com/photo-1541339907198-e08756dedf3f?q=80&w=400&auto=format&fit=crop" class="w-100 h-100 object-fit-cover" alt="EduCampus Slide" width="400" height="300">
                                             <?php endif; ?>
                                         </div>
                                         <div class="card-body p-4 d-flex flex-column flex-grow-1">
@@ -338,7 +338,7 @@ $news_bg_grad_dir = get_theme_mod( 'educampus_bg_grad_dir_news', '135deg' );
                                             <?php if ( $post_3['id'] > 0 ) : ?>
                                                 <?php echo $post_3['thumbnail']; ?>
                                             <?php else : ?>
-                                                <img loading="lazy" src="https://images.unsplash.com/photo-1522202176988-66273c2fd55f?q=80&w=400&auto=format&fit=crop" class="w-100 h-100 object-fit-cover" alt="EduCampus Slide">
+                                                <img loading="lazy" src="https://images.unsplash.com/photo-1522202176988-66273c2fd55f?q=80&w=400&auto=format&fit=crop" class="w-100 h-100 object-fit-cover" alt="EduCampus Slide" width="400" height="300">
                                             <?php endif; ?>
                                         </div>
                                         <div class="card-body p-4 d-flex flex-column flex-grow-1">
@@ -379,7 +379,7 @@ $news_bg_grad_dir = get_theme_mod( 'educampus_bg_grad_dir_news', '135deg' );
                                         4 => 'https://images.unsplash.com/photo-1541339907198-e08756dedf3f?q=80&w=300&auto=format&fit=crop'
                                     );
                                     ?>
-                                    <img loading="lazy" src="<?php echo esc_url( $img_urls[$bottom_count] ); ?>" class="w-100 h-100 object-fit-cover" alt="EduCampus news small">
+                                    <img loading="lazy" src="<?php echo esc_url( $img_urls[$bottom_count] ); ?>" class="w-100 h-100 object-fit-cover" alt="EduCampus news small" width="300" height="225">
                                 <?php endif; ?>
                             </div>
                             <div class="card-body p-3 d-flex flex-column flex-grow-1">

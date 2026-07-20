@@ -39,7 +39,7 @@ $gallery_query = new WP_Query( array(
             ?>
             <div class="col-md-6 col-lg-4">
                 <div class="ratio ratio-4x3 overflow-hidden rounded-campus shadow-campus-soft position-relative group-hover-overlay">
-                    <img loading="lazy" src="<?php echo esc_url( $img_url ); ?>" class="img-fluid object-fit-cover transform-scale" alt="<?php echo esc_attr( $img_alt ); ?>">
+                    <img loading="lazy" src="<?php echo esc_url( $img_url ); ?>" class="img-fluid object-fit-cover transform-scale" alt="<?php echo esc_attr( $img_alt ); ?>" width="768" height="576">
                     <?php if ( ! empty( $img_desc ) ) : ?>
                     <div class="position-absolute bottom-0 start-0 end-0 p-3" style="background: linear-gradient(transparent, rgba(0,0,0,0.7));">
                         <p class="text-white small mb-0"><?php echo esc_html( $img_desc ); ?></p>

@@ -63,7 +63,7 @@ function educampus_scripts() {
     $heading_font = get_theme_mod( 'educampus_font_heading', 'Plus Jakarta Sans' );
     $body_font    = get_theme_mod( 'educampus_font_body', 'Plus Jakarta Sans' );
 
-    // Google Fonts with preconnect already in header.php
+    // Google Fonts — load async to avoid render-blocking
     $font_families = array();
     $font_families[] = str_replace( ' ', '+', $heading_font ) . ':wght@300;400;500;600;700;800';
     if ( $body_font !== $heading_font ) {
@@ -71,6 +71,8 @@ function educampus_scripts() {
     }
     $google_fonts_url = 'https://fonts.googleapis.com/css2?family=' . implode( '&family=', $font_families ) . '&display=swap';
     wp_enqueue_style( 'educampus-google-fonts', $google_fonts_url, array(), null );
+    wp_style_add_data( 'educampus-google-fonts', 'media', 'print' );
+    wp_style_add_data( 'educampus-google-fonts', 'onload', 'this.media=\'all\'' );
 
     // Bootstrap Icons (load async in footer)
     wp_enqueue_style( 'bootstrap-icons', 'https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css', array(), '1.11.3' );
@@ -542,6 +544,74 @@ function educampus_disable_oembed() {
     remove_action( 'wp_head', 'wp_oembed_add_host_js' );
 }
 add_action( 'init', 'educampus_disable_oembed' );
+
+/**
+ * Auto-add width/height to post images to prevent CLS.
+ */
+function educampus_imageDimensions( $html, $id, $alt, $attr ) {
+    $size = isset( $attr['width'] ) ? $attr['width'] : '';
+    if ( empty( $size ) || ! is_numeric( $size ) ) {
+        $metadata = wp_get_attachment_metadata( $id );
+        if ( $metadata && isset( $metadata['width'] ) && isset( $metadata['height'] ) ) {
+            if ( ! isset( $attr['width'] ) ) {
+                $attr['width'] = $metadata['width'];
+            }
+            if ( ! isset( $attr['height'] ) ) {
+                $attr['height'] = $metadata['height'];
+            }
+        }
+    }
+    if ( empty( $attr['width'] ) || empty( $attr['height'] ) ) {
+        return $html;
+    }
+    $html = preg_replace( '/\swidth="[^"]*"/', '', $html );
+    $html = preg_replace( '/\sheight="[^"]*"/', '', $html );
+    $html = preg_replace( '/<img/', '<img width="' . esc_attr( $attr['width'] ) . '" height="' . esc_attr( $attr['height'] ) . '"', $html, 1 );
+    return $html;
+}
+add_filter( 'wp_get_attachment_image', 'educampus_imageDimensions', 10, 4 );
+
+/**
+ * Disable NProgress on mobile for better TBT score.
+ */
+function educampus_optimize_nprogress() {
+    if ( wp_is_mobile() ) {
+        wp_dequeue_style( 'nprogress' );
+        wp_dequeue_script( 'nprogress' );
+        wp_dequeue_script( 'nprogress-init' );
+    }
+}
+add_action( 'wp_enqueue_scripts', 'educampus_optimize_nprogress', 99 );
+
+/**
+ * Add resource hints for critical third-party domains.
+ */
+function educampus_resource_hints( $urls, $relation_type ) {
+    if ( 'dns-prefetch' === $relation_type ) {
+        $urls[] = array( 'href' => '//www.google-analytics.com' );
+        $urls[] = array( 'href' => '//www.googletagmanager.com' );
+    }
+    return $urls;
+}
+add_filter( 'wp_resource_hints', 'educampus_resource_hints', 10, 2 );
+
+/**
+ * Remove wp-embed.min.js from front-end for performance.
+ */
+function educampus_disable_embeds() {
+    if ( ! is_admin() ) {
+        wp_dequeue_script( 'wp-embed' );
+    }
+}
+add_action( 'wp_footer', 'educampus_disable_embeds' );
+
+/**
+ * Remove WP CSS emojis print (already disabled but ensure styles removed).
+ */
+function educampus_disable_emoji_styles() {
+    remove_action( 'wp_print_styles', 'print_emoji_styles' );
+}
+add_action( 'init', 'educampus_disable_emoji_styles' );
 
 /**
  * Remove WP version from head and RSS for security/SEO.

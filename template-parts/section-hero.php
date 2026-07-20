@@ -81,19 +81,19 @@ $slide_query = new WP_Query( array(
     // Fallback slides if no slide CPT posts exist
     $fallback_slides = array(
         array(
-            'image'    => 'https://images.unsplash.com/photo-1523050854058-8df90110c9f1?q=80&w=1920&auto=format&fit=crop',
+            'image'    => 'https://images.unsplash.com/photo-1523050854058-8df90110c9f1?q=80&w=1200&auto=format&fit=crop',
             'badge'    => 'PENERIMAAN MAHASISWA BARU (PMB) T.A. 2026/2027',
             'title'    => 'Membangun Generasi <span class="text-campus-gold">Unggul & Berkarakter</span> Global',
             'desc'     => 'Bergabunglah dengan EduCampus, universitas berakreditasi UNGGUL yang berfokus pada inovasi riset, teknologi mutakhir, dan pengembangan kompetensi profesional.',
         ),
         array(
-            'image'    => 'https://images.unsplash.com/photo-1541339907198-e08756dedf3f?q=80&w=1920&auto=format&fit=crop',
+            'image'    => 'https://images.unsplash.com/photo-1541339907198-e08756dedf3f?q=80&w=1200&auto=format&fit=crop',
             'badge'    => 'AKREDITASI UNGGUL 2026',
             'title'    => 'Universitas Terakreditasi <span class="text-campus-gold">UNGGUL</span> Nasional',
             'desc'     => 'BAN-PT resmi menetapkan peringkat tertinggi akreditasi institusi EduCampus berdasarkan evaluasi tata kelola, riset, dan kualitas lulusan.',
         ),
         array(
-            'image'    => 'https://images.unsplash.com/photo-1522202176988-66273c2fd55f?q=80&w=1920&auto=format&fit=crop',
+            'image'    => 'https://images.unsplash.com/photo-1522202176988-66273c2fd55f?q=80&w=1200&auto=format&fit=crop',
             'badge'    => 'RISET & INOVASI',
             'title'    => 'Pusat <span class="text-campus-gold">Riset & Inovasi</span> Terdepan',
             'desc'     => 'Laboratorium canggih, publikasi jurnal internasional, dan kerjasama riset dengan universitas terkemuka dunia untuk kemajuan sains dan teknologi.',
@@ -130,7 +130,13 @@ $slide_query = new WP_Query( array(
                         <!-- Slide Background Image -->
                         <?php if ( has_post_thumbnail() ) : ?>
                             <div class="position-absolute top-0 start-0 w-100 h-100">
-                                <?php the_post_thumbnail( 'full', array( 'class' => 'w-100 h-100 object-fit-cover', 'style' => 'object-position: center;' ) ); ?>
+                                <?php the_post_thumbnail( 'campus-large', array(
+                                    'class'   => 'w-100 h-100 object-fit-cover',
+                                    'style'   => 'object-position: center;',
+                                    'width'   => '1200',
+                                    'height'  => '600',
+                                    'loading' => '',
+                                ) ); ?>
                             </div>
                         <?php else : ?>
                             <div class="position-absolute top-0 start-0 w-100 h-100 bg-campus-navy"></div>
@@ -188,7 +194,11 @@ $slide_query = new WP_Query( array(
                     <div class="carousel-item <?php echo $idx === 0 ? 'active' : ''; ?>" style="min-height: 80vh;">
                         <!-- Slide Background Image -->
                         <div class="position-absolute top-0 start-0 w-100 h-100">
-                            <img <?php echo $idx === 0 ? 'fetchpriority="high" ' : ''; ?>src="<?php echo esc_url( $slide['image'] ); ?>" class="w-100 h-100 object-fit-cover" alt="EduCampus Slide" style="object-position: center;">
+                            <?php if ( $idx === 0 ) : ?>
+                                <img fetchpriority="high" src="<?php echo esc_url( $slide['image'] ); ?>" class="w-100 h-100 object-fit-cover" alt="EduCampus Slide" width="1200" height="600" style="object-position: center;">
+                            <?php else : ?>
+                                <img loading="lazy" src="<?php echo esc_url( $slide['image'] ); ?>" class="w-100 h-100 object-fit-cover" alt="EduCampus Slide" width="1200" height="600" style="object-position: center;">
+                            <?php endif; ?>
                         </div>
                         <!-- Dark Overlay -->
                         <div class="position-absolute top-0 start-0 w-100 h-100" style="background: linear-gradient(135deg, rgba(10,25,49,0.92) 0%, rgba(10,25,49,0.7) 40%, rgba(10,25,49,0.3) 100%);"></div>
