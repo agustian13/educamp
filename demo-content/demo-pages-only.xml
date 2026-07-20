@@ -1,0 +1,531 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<!-- This is a WordPress eXtended RSS file generated for EduCampus Demo Import -->
+<rss version="2.0" xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wp="http://wordpress.org/export/1.2/">
+<channel>
+	<title>IAILM</title>
+	<link>{{SITE_URL}}</link>
+	<description></description>
+	<language>en-US</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>{{SITE_URL}}</wp:base_site_url>
+	<wp:base_blog_url>{{SITE_URL}}</wp:base_blog_url>
+	<wp:author>
+		<wp:author_id>1</wp:author_id>
+		<wp:author_login>admin</wp:author_login>
+		<wp:author_email>coba@coba.com</wp:author_email>
+		<wp:author_display_name>admin</wp:author_display_name>
+		<wp:author_first_name></wp:author_first_name>
+		<wp:author_last_name></wp:author_last_name>
+	</wp:author>
+	<wp:category>
+		<wp:term_id>25</wp:term_id>
+		<wp:category_nicename>18</wp:category_nicename>
+		<wp:category_parent></wp:category_parent>
+		<wp:cat_name>18</wp:cat_name>
+	</wp:category>
+	<wp:category>
+		<wp:term_id>18</wp:term_id>
+		<wp:category_nicename>akademik</wp:category_nicename>
+		<wp:category_parent></wp:category_parent>
+		<wp:cat_name>Akademik</wp:cat_name>
+	</wp:category>
+	<wp:category>
+		<wp:term_id>33</wp:term_id>
+		<wp:category_nicename>badan</wp:category_nicename>
+		<wp:category_parent></wp:category_parent>
+		<wp:cat_name>Badan</wp:cat_name>
+	</wp:category>
+	<wp:category>
+		<wp:term_id>29</wp:term_id>
+		<wp:category_nicename>dekanat</wp:category_nicename>
+		<wp:category_parent></wp:category_parent>
+		<wp:cat_name>Dekan &amp; Pascasarjana</wp:cat_name>
+	</wp:category>
+	<wp:category>
+		<wp:term_id>22</wp:term_id>
+		<wp:category_nicename>kemahasiswaan</wp:category_nicename>
+		<wp:category_parent></wp:category_parent>
+		<wp:cat_name>Kemahasiswaan</wp:cat_name>
+	</wp:category>
+	<wp:category>
+		<wp:term_id>19</wp:term_id>
+		<wp:category_nicename>kerjasama</wp:category_nicename>
+		<wp:category_parent></wp:category_parent>
+		<wp:cat_name>Kerjasama</wp:cat_name>
+	</wp:category>
+	<wp:category>
+		<wp:term_id>30</wp:term_id>
+		<wp:category_nicename>lembaga</wp:category_nicename>
+		<wp:category_parent></wp:category_parent>
+		<wp:cat_name>Lembaga &amp; Biro</wp:cat_name>
+	</wp:category>
+	<wp:category>
+		<wp:term_id>17</wp:term_id>
+		<wp:category_nicename>magister-s2</wp:category_nicename>
+		<wp:category_parent></wp:category_parent>
+		<wp:cat_name>Magister (S2)</wp:cat_name>
+	</wp:category>
+	<wp:category>
+		<wp:term_id>38</wp:term_id>
+		<wp:category_nicename>pedoman</wp:category_nicename>
+		<wp:category_parent></wp:category_parent>
+		<wp:cat_name>Pedoman</wp:cat_name>
+	</wp:category>
+	<wp:category>
+		<wp:term_id>26</wp:term_id>
+		<wp:category_nicename>yayasan</wp:category_nicename>
+		<wp:category_parent></wp:category_parent>
+		<wp:cat_name>Pembina Yayasan</wp:cat_name>
+	</wp:category>
+	<wp:category>
+		<wp:term_id>36</wp:term_id>
+		<wp:category_nicename>peraturan</wp:category_nicename>
+		<wp:category_parent></wp:category_parent>
+		<wp:cat_name>Peraturan</wp:cat_name>
+	</wp:category>
+	<wp:category>
+		<wp:term_id>28</wp:term_id>
+		<wp:category_nicename>rektorat</wp:category_nicename>
+		<wp:category_parent></wp:category_parent>
+		<wp:cat_name>Pimpinan Rektorat</wp:cat_name>
+	</wp:category>
+	<wp:category>
+		<wp:term_id>24</wp:term_id>
+		<wp:category_nicename>prestasi</wp:category_nicename>
+		<wp:category_parent></wp:category_parent>
+		<wp:cat_name>Prestasi</wp:cat_name>
+	</wp:category>
+	<wp:category>
+		<wp:term_id>39</wp:term_id>
+		<wp:category_nicename>program-studi</wp:category_nicename>
+		<wp:category_parent></wp:category_parent>
+		<wp:cat_name>Program Studi</wp:cat_name>
+	</wp:category>
+	<wp:category>
+		<wp:term_id>23</wp:term_id>
+		<wp:category_nicename>riset</wp:category_nicename>
+		<wp:category_parent></wp:category_parent>
+		<wp:cat_name>Riset &amp; Inovasi</wp:cat_name>
+	</wp:category>
+	<wp:category>
+		<wp:term_id>20</wp:term_id>
+		<wp:category_nicename>riset-jurnal</wp:category_nicename>
+		<wp:category_parent></wp:category_parent>
+		<wp:cat_name>Riset &amp; Jurnal</wp:cat_name>
+	</wp:category>
+	<wp:category>
+		<wp:term_id>16</wp:term_id>
+		<wp:category_nicename>sarjana-s1</wp:category_nicename>
+		<wp:category_parent></wp:category_parent>
+		<wp:cat_name>Sarjana (S1)</wp:cat_name>
+	</wp:category>
+	<wp:category>
+		<wp:term_id>27</wp:term_id>
+		<wp:category_nicename>senat</wp:category_nicename>
+		<wp:category_parent></wp:category_parent>
+		<wp:cat_name>Senat Akademik</wp:cat_name>
+	</wp:category>
+	<wp:category>
+		<wp:term_id>37</wp:term_id>
+		<wp:category_nicename>surat-keputusan</wp:category_nicename>
+		<wp:category_parent></wp:category_parent>
+		<wp:cat_name>Surat Keputusan</wp:cat_name>
+	</wp:category>
+	<wp:category>
+		<wp:term_id>1</wp:term_id>
+		<wp:category_nicename>tak-berkategori</wp:category_nicename>
+		<wp:category_parent></wp:category_parent>
+		<wp:cat_name>Tak Berkategori</wp:cat_name>
+	</wp:category>
+	<wp:category>
+		<wp:term_id>32</wp:term_id>
+		<wp:category_nicename>upt</wp:category_nicename>
+		<wp:category_parent></wp:category_parent>
+		<wp:cat_name>UPT</wp:cat_name>
+	</wp:category>
+	<wp:category>
+		<wp:term_id>34</wp:term_id>
+		<wp:category_nicename>wakil-dekan</wp:category_nicename>
+		<wp:category_parent>dekanat</wp:category_parent>
+		<wp:cat_name>Wakil Dekan</wp:cat_name>
+	</wp:category>
+	<wp:term>
+		<wp:term_id>21</wp:term_id>
+		<wp:term_taxonomy>nav_menu</wp:term_taxonomy>
+		<wp:term_slug>primary-menu</wp:term_slug>
+		<wp:term_name>Primary Menu</wp:term_name>
+	</wp:term>
+	<wp:term>
+		<wp:term_id>25</wp:term_id>
+		<wp:term_taxonomy>news_category</wp:term_taxonomy>
+		<wp:term_slug>18</wp:term_slug>
+		<wp:term_parent></wp:term_parent>
+		<wp:term_name>18</wp:term_name>
+	</wp:term>
+	<wp:term>
+		<wp:term_id>18</wp:term_id>
+		<wp:term_taxonomy>news_category</wp:term_taxonomy>
+		<wp:term_slug>akademik</wp:term_slug>
+		<wp:term_parent></wp:term_parent>
+		<wp:term_name>Akademik</wp:term_name>
+	</wp:term>
+	<wp:term>
+		<wp:term_id>22</wp:term_id>
+		<wp:term_taxonomy>news_category</wp:term_taxonomy>
+		<wp:term_slug>kemahasiswaan</wp:term_slug>
+		<wp:term_parent></wp:term_parent>
+		<wp:term_name>Kemahasiswaan</wp:term_name>
+	</wp:term>
+	<wp:term>
+		<wp:term_id>19</wp:term_id>
+		<wp:term_taxonomy>news_category</wp:term_taxonomy>
+		<wp:term_slug>kerjasama</wp:term_slug>
+		<wp:term_parent></wp:term_parent>
+		<wp:term_name>Kerjasama</wp:term_name>
+	</wp:term>
+	<wp:term>
+		<wp:term_id>24</wp:term_id>
+		<wp:term_taxonomy>news_category</wp:term_taxonomy>
+		<wp:term_slug>prestasi</wp:term_slug>
+		<wp:term_parent></wp:term_parent>
+		<wp:term_name>Prestasi</wp:term_name>
+	</wp:term>
+	<wp:term>
+		<wp:term_id>23</wp:term_id>
+		<wp:term_taxonomy>news_category</wp:term_taxonomy>
+		<wp:term_slug>riset</wp:term_slug>
+		<wp:term_parent></wp:term_parent>
+		<wp:term_name>Riset &amp; Inovasi</wp:term_name>
+	</wp:term>
+	<wp:term>
+		<wp:term_id>20</wp:term_id>
+		<wp:term_taxonomy>news_category</wp:term_taxonomy>
+		<wp:term_slug>riset-jurnal</wp:term_slug>
+		<wp:term_parent></wp:term_parent>
+		<wp:term_name>Riset &amp; Jurnal</wp:term_name>
+	</wp:term>
+	<wp:term>
+		<wp:term_id>17</wp:term_id>
+		<wp:term_taxonomy>program_level</wp:term_taxonomy>
+		<wp:term_slug>magister-s2</wp:term_slug>
+		<wp:term_parent></wp:term_parent>
+		<wp:term_name>Magister (S2)</wp:term_name>
+	</wp:term>
+	<wp:term>
+		<wp:term_id>16</wp:term_id>
+		<wp:term_taxonomy>program_level</wp:term_taxonomy>
+		<wp:term_slug>sarjana-s1</wp:term_slug>
+		<wp:term_parent></wp:term_parent>
+		<wp:term_name>Sarjana (S1)</wp:term_name>
+	</wp:term>
+	<wp:term>
+		<wp:term_id>33</wp:term_id>
+		<wp:term_taxonomy>unit_group</wp:term_taxonomy>
+		<wp:term_slug>badan</wp:term_slug>
+		<wp:term_parent></wp:term_parent>
+		<wp:term_name>Badan</wp:term_name>
+	</wp:term>
+	<wp:term>
+		<wp:term_id>29</wp:term_id>
+		<wp:term_taxonomy>unit_group</wp:term_taxonomy>
+		<wp:term_slug>dekanat</wp:term_slug>
+		<wp:term_parent></wp:term_parent>
+		<wp:term_name>Dekan &amp; Pascasarjana</wp:term_name>
+	</wp:term>
+	<wp:term>
+		<wp:term_id>30</wp:term_id>
+		<wp:term_taxonomy>unit_group</wp:term_taxonomy>
+		<wp:term_slug>lembaga</wp:term_slug>
+		<wp:term_parent></wp:term_parent>
+		<wp:term_name>Lembaga &amp; Biro</wp:term_name>
+	</wp:term>
+	<wp:term>
+		<wp:term_id>26</wp:term_id>
+		<wp:term_taxonomy>unit_group</wp:term_taxonomy>
+		<wp:term_slug>yayasan</wp:term_slug>
+		<wp:term_parent></wp:term_parent>
+		<wp:term_name>Pembina Yayasan</wp:term_name>
+	</wp:term>
+	<wp:term>
+		<wp:term_id>28</wp:term_id>
+		<wp:term_taxonomy>unit_group</wp:term_taxonomy>
+		<wp:term_slug>rektorat</wp:term_slug>
+		<wp:term_parent></wp:term_parent>
+		<wp:term_name>Pimpinan Rektorat</wp:term_name>
+	</wp:term>
+	<wp:term>
+		<wp:term_id>39</wp:term_id>
+		<wp:term_taxonomy>unit_group</wp:term_taxonomy>
+		<wp:term_slug>program-studi</wp:term_slug>
+		<wp:term_parent></wp:term_parent>
+		<wp:term_name>Program Studi</wp:term_name>
+	</wp:term>
+	<wp:term>
+		<wp:term_id>27</wp:term_id>
+		<wp:term_taxonomy>unit_group</wp:term_taxonomy>
+		<wp:term_slug>senat</wp:term_slug>
+		<wp:term_parent></wp:term_parent>
+		<wp:term_name>Senat Akademik</wp:term_name>
+	</wp:term>
+	<wp:term>
+		<wp:term_id>32</wp:term_id>
+		<wp:term_taxonomy>unit_group</wp:term_taxonomy>
+		<wp:term_slug>upt</wp:term_slug>
+		<wp:term_parent></wp:term_parent>
+		<wp:term_name>UPT</wp:term_name>
+	</wp:term>
+	<wp:term>
+		<wp:term_id>34</wp:term_id>
+		<wp:term_taxonomy>unit_group</wp:term_taxonomy>
+		<wp:term_slug>wakil-dekan</wp:term_slug>
+		<wp:term_parent>dekanat</wp:term_parent>
+		<wp:term_name>Wakil Dekan</wp:term_name>
+	</wp:term>
+	<wp:term>
+		<wp:term_id>38</wp:term_id>
+		<wp:term_taxonomy>dokumen_category</wp:term_taxonomy>
+		<wp:term_slug>pedoman</wp:term_slug>
+		<wp:term_parent></wp:term_parent>
+		<wp:term_name>Pedoman</wp:term_name>
+	</wp:term>
+	<wp:term>
+		<wp:term_id>36</wp:term_id>
+		<wp:term_taxonomy>dokumen_category</wp:term_taxonomy>
+		<wp:term_slug>peraturan</wp:term_slug>
+		<wp:term_parent></wp:term_parent>
+		<wp:term_name>Peraturan</wp:term_name>
+	</wp:term>
+	<wp:term>
+		<wp:term_id>37</wp:term_id>
+		<wp:term_taxonomy>dokumen_category</wp:term_taxonomy>
+		<wp:term_slug>surat-keputusan</wp:term_slug>
+		<wp:term_parent></wp:term_parent>
+		<wp:term_name>Surat Keputusan</wp:term_name>
+	</wp:term>
+	
+<item>
+		<title>Profile</title>
+		<link>/profile/</link>
+		<pubDate>Thu, 11 Jun 2026 16:47:44 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+		<guid isPermaLink="false">/?page_id=27</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>27</wp:post_id>
+		<wp:post_date>2026-06-11 16:47:44</wp:post_date>
+		<wp:post_date_gmt>2026-06-11 16:47:44</wp:post_date_gmt>
+		<wp:post_modified>2026-06-11 17:10:45</wp:post_modified>
+		<wp:post_modified_gmt>2026-06-11 17:10:45</wp:post_modified_gmt>
+		<wp:comment_status>closed</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>profile</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>page</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key>_wp_page_template</wp:meta_key>
+			<wp:meta_value><![CDATA[page-profil.php]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+<item>
+		<title>Struktur Organisasi</title>
+		<link>/struktur-organisasi/</link>
+		<pubDate>Mon, 22 Jun 2026 17:41:52 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+		<guid isPermaLink="false">/?page_id=290</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>290</wp:post_id>
+		<wp:post_date>2026-06-22 17:41:52</wp:post_date>
+		<wp:post_date_gmt>2026-06-22 17:41:52</wp:post_date_gmt>
+		<wp:post_modified>2026-06-22 17:41:52</wp:post_modified>
+		<wp:post_modified_gmt>2026-06-22 17:41:52</wp:post_modified_gmt>
+		<wp:comment_status>closed</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>struktur-organisasi</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>page</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key>_wp_page_template</wp:meta_key>
+			<wp:meta_value><![CDATA[page-struktur-organisasi.php]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+<item>
+		<title>Visi Misi</title>
+		<link>/visi-misi/</link>
+		<pubDate>Sat, 27 Jun 2026 10:31:30 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+		<guid isPermaLink="false">/?page_id=302</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>302</wp:post_id>
+		<wp:post_date>2026-06-27 10:31:30</wp:post_date>
+		<wp:post_date_gmt>2026-06-27 10:31:30</wp:post_date_gmt>
+		<wp:post_modified>2026-06-27 13:47:48</wp:post_modified>
+		<wp:post_modified_gmt>2026-06-27 13:47:48</wp:post_modified_gmt>
+		<wp:comment_status>closed</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>visi-misi</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>page</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key>_wp_page_template</wp:meta_key>
+			<wp:meta_value><![CDATA[page-visi-misi.php]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+<item>
+		<title>Profil Kampus</title>
+		<link>/profil-kampus/</link>
+		<pubDate>Thu, 11 Jun 2026 17:25:22 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+		<guid isPermaLink="false">/profil-kampus/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>58</wp:post_id>
+		<wp:post_date>2026-06-11 17:25:22</wp:post_date>
+		<wp:post_date_gmt>2026-06-11 17:25:22</wp:post_date_gmt>
+		<wp:post_modified>2026-06-13 13:16:37</wp:post_modified>
+		<wp:post_modified_gmt>2026-06-13 13:16:37</wp:post_modified_gmt>
+		<wp:comment_status>closed</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>profil-kampus</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>page</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key>_wp_page_template</wp:meta_key>
+			<wp:meta_value><![CDATA[page-profil.php]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+<item>
+		<title>Penerimaan Mahasiswa Baru</title>
+		<link>/penerimaan-mahasiswa-baru/</link>
+		<pubDate>Thu, 11 Jun 2026 17:25:22 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+		<guid isPermaLink="false">/penerimaan-mahasiswa-baru/</guid>
+		<description></description>
+		<content:encoded><![CDATA[Halaman Pendaftaran Mahasiswa Baru tahun akademik 2026/2027.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>59</wp:post_id>
+		<wp:post_date>2026-06-11 17:25:22</wp:post_date>
+		<wp:post_date_gmt>2026-06-11 17:25:22</wp:post_date_gmt>
+		<wp:post_modified>2026-06-11 17:25:22</wp:post_modified>
+		<wp:post_modified_gmt>2026-06-11 17:25:22</wp:post_modified_gmt>
+		<wp:comment_status>closed</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>penerimaan-mahasiswa-baru</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>page</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key>_wp_page_template</wp:meta_key>
+			<wp:meta_value><![CDATA[page-pmb.php]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+<item>
+		<title>Sejarah</title>
+		<link>/sejarah/</link>
+		<pubDate>Sat, 27 Jun 2026 13:49:45 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+		<guid isPermaLink="false">/?page_id=339</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>339</wp:post_id>
+		<wp:post_date>2026-06-27 13:49:45</wp:post_date>
+		<wp:post_date_gmt>2026-06-27 13:49:45</wp:post_date_gmt>
+		<wp:post_modified>2026-06-27 13:49:45</wp:post_modified>
+		<wp:post_modified_gmt>2026-06-27 13:49:45</wp:post_modified_gmt>
+		<wp:comment_status>closed</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>sejarah</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>page</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key>_wp_page_template</wp:meta_key>
+			<wp:meta_value><![CDATA[page-sejarah.php]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+<item>
+		<title>Jati Diri dan Nilai Dasar</title>
+		<link>/jati-diri-dan-simbol/</link>
+		<pubDate>Sat, 27 Jun 2026 15:14:47 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+		<guid isPermaLink="false">/?page_id=342</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>342</wp:post_id>
+		<wp:post_date>2026-06-27 15:14:47</wp:post_date>
+		<wp:post_date_gmt>2026-06-27 15:14:47</wp:post_date_gmt>
+		<wp:post_modified>2026-06-27 15:15:10</wp:post_modified>
+		<wp:post_modified_gmt>2026-06-27 15:15:10</wp:post_modified_gmt>
+		<wp:comment_status>closed</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>jati-diri-dan-simbol</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>page</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key>_wp_page_template</wp:meta_key>
+			<wp:meta_value><![CDATA[page-jati-diri.php]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+<item>
+		<title>Lambang dan Identitas</title>
+		<link>/lambang-dan-identitas/</link>
+		<pubDate>Sat, 27 Jun 2026 15:45:20 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+		<guid isPermaLink="false">/?page_id=347</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>347</wp:post_id>
+		<wp:post_date>2026-06-27 15:45:20</wp:post_date>
+		<wp:post_date_gmt>2026-06-27 15:45:20</wp:post_date_gmt>
+		<wp:post_modified>2026-06-27 15:46:16</wp:post_modified>
+		<wp:post_modified_gmt>2026-06-27 15:46:16</wp:post_modified_gmt>
+		<wp:comment_status>closed</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>lambang-dan-identitas</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>page</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key>_wp_page_template</wp:meta_key>
+			<wp:meta_value><![CDATA[page-identitas.php]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+</channel>
+</rss>

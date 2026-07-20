@@ -1,0 +1,741 @@
+{
+  "_meta": {
+    "source": "demo-content.xml",
+    "total_items": 407,
+    "post_types": {
+      "faculty": 4,
+      "program": 9,
+      "lecturer": 71,
+      "news": 7,
+      "unit": 49,
+      "event": 2,
+      "announcement": 1,
+      "page": 8,
+      "dokumen": 1,
+      "attachment": 237,
+      "nav_menu_item": 18
+    }
+  },
+
+  "taxonomy_terms": {
+    "news_category": [
+      {"term_id": 25, "slug": "18", "name": "18", "parent": ""},
+      {"term_id": 18, "slug": "akademik", "name": "Akademik", "parent": ""},
+      {"term_id": 22, "slug": "kemahasiswaan", "name": "Kemahasiswaan", "parent": ""},
+      {"term_id": 19, "slug": "kerjasama", "name": "Kerjasama", "parent": ""},
+      {"term_id": 24, "slug": "prestasi", "name": "Prestasi", "parent": ""},
+      {"term_id": 23, "slug": "riset", "name": "Riset & Inovasi", "parent": ""},
+      {"term_id": 20, "slug": "riset-jurnal", "name": "Riset & Jurnal", "parent": ""}
+    ],
+    "program_level": [
+      {"term_id": 17, "slug": "magister-s2", "name": "Magister (S2)", "parent": ""},
+      {"term_id": 16, "slug": "sarjana-s1", "name": "Sarjana (S1)", "parent": ""}
+    ],
+    "unit_group": [
+      {"term_id": 33, "slug": "badan", "name": "Badan", "parent": ""},
+      {"term_id": 29, "slug": "dekanat", "name": "Dekan & Pascasarjana", "parent": ""},
+      {"term_id": 30, "slug": "lembaga", "name": "Lembaga & Biro", "parent": ""},
+      {"term_id": 26, "slug": "yayasan", "name": "Pembina Yayasan", "parent": ""},
+      {"term_id": 28, "slug": "rektorat", "name": "Pimpinan Rektorat", "parent": ""},
+      {"term_id": 39, "slug": "program-studi", "name": "Program Studi", "parent": ""},
+      {"term_id": 27, "slug": "senat", "name": "Senat Akademik", "parent": ""},
+      {"term_id": 32, "slug": "upt", "name": "UPT", "parent": ""},
+      {"term_id": 34, "slug": "wakil-dekan", "name": "Wakil Dekan", "parent": "dekanat"}
+    ],
+    "dokumen_category": [
+      {"term_id": 38, "slug": "pedoman", "name": "Pedoman", "parent": ""},
+      {"term_id": 36, "slug": "peraturan", "name": "Peraturan", "parent": ""},
+      {"term_id": 37, "slug": "surat-keputusan", "name": "Surat Keputusan", "parent": ""}
+    ]
+  },
+
+  "faculties": [
+    {
+      "source_id": 128,
+      "title": "Fakultas Tarbiyah",
+      "slug": "fakultas-tarbiyah",
+      "post_parent": 0,
+      "content": "Fakultas Tarbiyah IAILM Suryalaya berkomitmen melahirkan tenaga pendidik Muslim yang memiliki kompetensi pedagogik unggul dan berakhlak mulia berbasis nilai-nilai luhur tasawuf.",
+      "thumbnail_id": null,
+      "meta": {
+        "_faculty_dean_name": "Oyib Sulaeman, S.Ag, M.SI",
+        "_faculty_dean_period": "",
+        "_faculty_dean_photo": "{{SITE_URL}}/wp-content/uploads/2026/06/sister-402-oyib-sulaeman-scaled.jpg",
+        "_faculty_dean_quote": "Fakultas Tarbiyah IAILM Suryalaya berkomitmen melahirkan tenaga pendidik Muslim yang memiliki kompetensi pedagogik unggul dan berakhlak mulia berbasis nilai-nilai luhur tasawuf.",
+        "_faculty_established": "2000",
+        "_faculty_students_count": "450",
+        "_faculty_lecturers_count": "45",
+        "_faculty_location": "",
+        "_faculty_visi": "baik laku lampah sauyun bersama",
+        "_faculty_misi": "satu satu dua dua",
+        "_faculty_youtube": "https://www.youtube.com/@iailmsuryalaya",
+        "_faculty_instagram": "https://www.instagram.com/iailm_suryalaya/",
+        "_faculty_tiktok": "https://www.tiktok.com/@iailm_suryalaya",
+        "_faculty_facebook": ""
+      }
+    },
+    {
+      "source_id": 129,
+      "title": "Fakultas Syariah",
+      "slug": "fakultas-syariah",
+      "post_parent": 0,
+      "content": "Fakultas Syariah IAILM Suryalaya mendidik sarjana hukum Islam dan analis ekonomi syariah yang kompeten, profesional, berintegritas tinggi, serta inovatif.",
+      "thumbnail_id": 130,
+      "meta": {
+        "_faculty_dean_name": "Dr. Rd. Asep Hamdan Munawar, M.SI",
+        "_faculty_dean_period": "",
+        "_faculty_dean_photo": "{{SITE_URL}}/wp-content/uploads/2026/06/sister-403-raden-asep-hamdan-munawar.jpg",
+        "_faculty_dean_quote": "",
+        "_faculty_established": "",
+        "_faculty_students_count": "",
+        "_faculty_lecturers_count": "",
+        "_faculty_location": "",
+        "_faculty_visi": "",
+        "_faculty_misi": "",
+        "_faculty_youtube": "",
+        "_faculty_instagram": "",
+        "_faculty_tiktok": "",
+        "_faculty_facebook": ""
+      }
+    },
+    {
+      "source_id": 131,
+      "title": "Fakultas Dakwah",
+      "slug": "fakultas-dakwah",
+      "post_parent": 0,
+      "content": "Fakultas Dakwah IAILM Suryalaya melahirkan mubaligh dan praktisi komunikasi Islam yang terampil, berwawasan luas, serta berkarakter mulia di era digital.",
+      "thumbnail_id": 132,
+      "meta": {
+        "_faculty_dean_name": "Drs. Maturidi, M.SI",
+        "_faculty_dean_period": "2025-2029",
+        "_faculty_dean_photo": "{{SITE_URL}}/wp-content/uploads/2026/06/sister-391-maturidi.jpg",
+        "_faculty_dean_quote": "Fakultas Dakwah berkomitmen mensinergikan kecakapan komunikasi modern dan kedalaman spiritual melalui dua pilar akademik unggulan.Program Studi Komunikasi dan Penyiaran Islam fokus pada rekonstruksi pesan dakwah berbasis literasi media dan teknologi informasi. Sementara itu, Program Studi Ilmu Tasawuf mengkaji dimensi esoteris Islam untuk membangun moralitas dan spiritualitas publik di era global.Integrasi kedua prodi ini bertujuan menghasilkan sarjana yang kompeten dalam diseminasi informasi keagamaan sekaligus adaptif terhadap dinamika sosial-intelektual.",
+        "_faculty_established": "-",
+        "_faculty_students_count": "-",
+        "_faculty_lecturers_count": "-",
+        "_faculty_location": "-",
+        "_faculty_visi": "-",
+        "_faculty_misi": "-",
+        "_faculty_youtube": "",
+        "_faculty_instagram": "",
+        "_faculty_tiktok": "",
+        "_faculty_facebook": ""
+      }
+    },
+    {
+      "source_id": 133,
+      "title": "Program Pascasarjana",
+      "slug": "program-pascasarjana",
+      "post_parent": 0,
+      "content": "Program Pascasarjana IAILM Suryalaya menyelenggarakan pendidikan lanjutan strata-2 (S2) bidang Manajemen Pendidikan Islam (MPI) dan Ilmu Tasawuf.",
+      "thumbnail_id": 134,
+      "meta": {
+        "_faculty_dean_name": "Dr. Jamaludin",
+        "_faculty_dean_period": "",
+        "_faculty_dean_photo": "{{SITE_URL}}/wp-content/uploads/2026/06/sister-374-jamaludin.jpg",
+        "_faculty_dean_quote": "",
+        "_faculty_established": "",
+        "_faculty_students_count": "",
+        "_faculty_lecturers_count": "",
+        "_faculty_location": "",
+        "_faculty_visi": "",
+        "_faculty_misi": "",
+        "_faculty_youtube": "",
+        "_faculty_instagram": "",
+        "_faculty_tiktok": "",
+        "_faculty_facebook": ""
+      }
+    }
+  ],
+
+  "programs": [
+    {
+      "source_id": 135,
+      "title": "S1 Pendidikan Agama Islam (PAI)",
+      "slug": "s1-pendidikan-agama-islam-pai",
+      "post_parent": 0,
+      "content": "Menghasilkan sarjana pendidikan agama Islam yang profesional, kompeten, dan siap mengabdi di madrasah/sekolah tingkat dasar hingga menengah.",
+      "thumbnail_id": 136,
+      "program_level": "Sarjana (S1)",
+      "meta": {
+        "_program_faculty_id": "128",
+        "_program_accreditation": "",
+        "_program_accred_cert": "",
+        "_program_accred_sk": "",
+        "_program_gelar": "",
+        "_program_duration": "",
+        "_program_method": "",
+        "_program_visi": "",
+        "_program_curriculum": "",
+        "_program_careers": "",
+        "_program_kaprodi_name": "",
+        "_program_kaprodi_nidn": "",
+        "_program_kaprodi_period": "",
+        "_program_sekprodi_name": "",
+        "_program_sekprodi_nidn": "",
+        "_program_sekprodi_period": "",
+        "_program_kaprodi_photo": "",
+        "_program_sekprodi_photo": "",
+        "_program_accred_institution": "",
+        "_program_misi": "",
+        "_program_curriculum_json": ""
+      }
+    },
+    {
+      "source_id": 137,
+      "title": "S1 Pendidikan Islam Anak Usia Dini (PIAUD)",
+      "slug": "s1-pendidikan-islam-anak-usia-dini-piaud",
+      "post_parent": 0,
+      "content": "Mendidik guru PAUD/RA yang terampil, inovatif, serta memahami tahapan psikologi perkembangan anak usia emas berlandaskan nilai akhlak.",
+      "thumbnail_id": 138,
+      "program_level": "Sarjana (S1)",
+      "meta": {
+        "_program_faculty_id": "128"
+      }
+    },
+    {
+      "source_id": 139,
+      "title": "S1 Pendidikan Guru Madrasah Ibtidaiyah (PGMI)",
+      "slug": "s1-pendidikan-guru-madrasah-ibtidaiyah-pgmi",
+      "post_parent": 0,
+      "content": "Menyiapkan guru kelas tingkat SD/MI yang menguasai metode pembelajaran tematik integratif secara kreatif.",
+      "thumbnail_id": 140,
+      "program_level": "Sarjana (S1)",
+      "meta": {
+        "_program_faculty_id": "128",
+        "_program_accreditation": "Baik Sekali",
+        "_program_accred_cert": "{{SITE_URL}}/wp-content/uploads/2026/06/logo-iailm.png",
+        "_program_accred_sk": "{{SITE_URL}}/wp-content/uploads/2026/06/logo-iailm.png",
+        "_program_gelar": "S.Pd.",
+        "_program_duration": "8 Semester",
+        "_program_method": "",
+        "_program_visi": "lorem insum abcdef",
+        "_program_curriculum": "No.\tKode\tMatakuliah\n1.\tIAI. 003\tBAHASA INDONESIA\n2.\tIAI.001\tPANCASILA\n3.\tIAI.004\tBAHASA INGGRIS 1\n4.\tIAI.006\tBAHASA ARAB 1\n5.\tIAI.008\tMETODOLOGI STUDI ISLAM\n6.\tIAI.010\tTASAWUF DAN TAREKAT 1\n7.\tPGMI.001\tSENI BUDAYA\n8.\tTRB.001\tILMU PENDIDIKAN\n9.\tTRB.002\tFILSAFAT UMUM\n10.\tTRB.008\tPENGANTAR PSIKOLOGI",
+        "_program_careers": "",
+        "_program_kaprodi_name": "Nana Suryana",
+        "_program_kaprodi_nidn": "214325354545",
+        "_program_kaprodi_period": "",
+        "_program_sekprodi_name": "Rina Wijaya",
+        "_program_sekprodi_nidn": "231332113",
+        "_program_sekprodi_period": "",
+        "_program_kaprodi_photo": "{{SITE_URL}}/wp-content/uploads/2026/06/featured-150-photo-1507003211169-0a1dd7228f2d.jpg",
+        "_program_sekprodi_photo": "{{SITE_URL}}/wp-content/uploads/2026/06/featured-156-photo-1573496359142-b8d87734a5a2.jpg",
+        "_program_accred_institution": "",
+        "_program_misi": "",
+        "_program_curriculum_json": "{\"1\":[{\"code\":\"IAI. 003\",\"name\":\"BAHASA INDONESIA\",\"sks\":\"2\"},{\"code\":\"IAI.001\",\"name\":\"PANCASILA\",\"sks\":\"2\"},{\"code\":\"IAI.004\",\"name\":\"BAHASA INGGRIS 1\",\"sks\":\"2\"}]}"
+      }
+    },
+    {
+      "source_id": 141,
+      "title": "S1 Hukum Ekonomi Syariah (HES)",
+      "slug": "s1-hukum-keluarga-islam-ahwal-al-syakhsiyah",
+      "post_parent": 0,
+      "content": "Menelaah hukum perkawinan Islam, waris, hibah, serta menyiapkan praktisi hukum di Pengadilan Agama.",
+      "thumbnail_id": 142,
+      "program_level": "Sarjana (S1)",
+      "meta": {
+        "_program_faculty_id": "129",
+        "_program_accreditation": "",
+        "_program_accred_institution": "",
+        "_program_gelar": "",
+        "_program_duration": "",
+        "_program_method": "",
+        "_program_kaprodi_name": "",
+        "_program_kaprodi_nidn": "",
+        "_program_kaprodi_period": "",
+        "_program_sekprodi_name": "",
+        "_program_sekprodi_nidn": "",
+        "_program_sekprodi_period": "",
+        "_program_accred_cert": "",
+        "_program_accred_sk": "",
+        "_program_kaprodi_photo": "",
+        "_program_sekprodi_photo": "",
+        "_program_youtube": "",
+        "_program_instagram": "",
+        "_program_tiktok": "",
+        "_program_facebook": "",
+        "_program_visi": "",
+        "_program_misi": "",
+        "_program_featured": "0",
+        "_program_careers": ""
+      }
+    },
+    {
+      "source_id": 143,
+      "title": "S1 Ekonomi Syariah",
+      "slug": "s1-ekonomi-syariah",
+      "post_parent": 0,
+      "content": "Mengkaji konsep perbankan syariah, lembaga keuangan mikro, asuransi, serta manajemen bisnis syariah terapan.",
+      "thumbnail_id": 144,
+      "program_level": "Sarjana (S1)",
+      "meta": {
+        "_program_faculty_id": "129"
+      }
+    },
+    {
+      "source_id": 145,
+      "title": "S1 Komunikasi dan Penyiaran Islam (KPI)",
+      "slug": "s1-komunikasi-dan-penyiaran-islam-kpi",
+      "post_parent": 0,
+      "content": "Mempelajari broadcasting, jurnalisme penyiaran Islam, manajemen media, dan teknik retorika komunikasi dakwah.",
+      "thumbnail_id": 146,
+      "program_level": "Sarjana (S1)",
+      "meta": {
+        "_program_faculty_id": "131"
+      }
+    },
+    {
+      "source_id": 147,
+      "title": "S1 Ilmu Tasawuf",
+      "slug": "s1-ilmu-tasawuf",
+      "post_parent": 0,
+      "content": "Mengkaji aspek spiritual Islam, metode pembersihan hati (tazkiyatun nafs), sejarah tarekat, serta terapi psikospiritual.",
+      "thumbnail_id": null,
+      "program_level": "Sarjana (S1)",
+      "meta": {
+        "_program_faculty_id": "131"
+      }
+    },
+    {
+      "source_id": 148,
+      "title": "S2 Manajemen Pendidikan Islam (MPI)",
+      "slug": "s2-pendidikan-agama-islam-pai",
+      "post_parent": 0,
+      "content": "Mengembangkan keilmuan pendidikan Islam tingkat lanjut, riset kurikulum, serta kepemimpinan lembaga pendidikan.",
+      "thumbnail_id": 149,
+      "program_level": "Magister (S2)",
+      "meta": {
+        "_program_faculty_id": "133",
+        "_program_accreditation": "",
+        "_program_accred_institution": "",
+        "_program_gelar": "",
+        "_program_duration": "",
+        "_program_method": "",
+        "_program_kaprodi_name": "",
+        "_program_kaprodi_nidn": "",
+        "_program_kaprodi_period": "",
+        "_program_sekprodi_name": "",
+        "_program_sekprodi_nidn": "",
+        "_program_sekprodi_period": "",
+        "_program_accred_cert": "",
+        "_program_accred_sk": "",
+        "_program_kaprodi_photo": "",
+        "_program_sekprodi_photo": "",
+        "_program_youtube": "",
+        "_program_instagram": "",
+        "_program_tiktok": "",
+        "_program_facebook": "",
+        "_program_visi": "",
+        "_program_misi": "",
+        "_program_featured": "0",
+        "_program_careers": ""
+      }
+    },
+    {
+      "source_id": 150,
+      "title": "S2 Ilmu Tasawuf",
+      "slug": "s2-ilmu-tasawuf",
+      "post_parent": 0,
+      "content": "Program magister riset tasawuf terapan untuk kajian kerukunan sosial, kesehatan mental spiritual, dan naskah tarekat klasik.",
+      "thumbnail_id": 151,
+      "program_level": "Magister (S2)",
+      "meta": {
+        "_program_faculty_id": "133"
+      }
+    }
+  ],
+
+  "lecturers": [
+    {
+      "source_id": 353,
+      "title": "ABDUL ABAS",
+      "slug": "abdul-abas",
+      "post_parent": 0,
+      "thumbnail_id": 493,
+      "meta": {
+        "_lecturer_last_synced_at": "2026-06-28 04:32:14",
+        "_lecturer_gender": "L",
+        "_lecturer_tempat_lahir": "Tasikmalaya",
+        "_lecturer_tanggal_lahir": "1970-08-15",
+        "_lecturer_sister_id": "c02f8da1-88f3-4ca5-bdf8-5042f26b9c45",
+        "_lecturer_email": "",
+        "_lecturer_address": "",
+        "_lecturer_nik": "3206381508700015",
+        "_lecturer_nidn": "",
+        "_lecturer_nuptk": "",
+        "_lecturer_program_id": "145",
+        "_lecturer_education": "",
+        "_lecturer_gelar": ""
+      }
+    },
+    {
+      "source_id": 356,
+      "title": "ACENG WANDI WAHYUDIN",
+      "slug": "aceng-wandi-wahyudin",
+      "post_parent": 0,
+      "thumbnail_id": 494,
+      "meta": {
+        "_lecturer_last_synced_at": "2026-06-28 04:43:23",
+        "_lecturer_gender": "L",
+        "_lecturer_tempat_lahir": "Tasikmalaya",
+        "_lecturer_tanggal_lahir": "1978-12-27",
+        "_lecturer_position": "Dosen Pengajar",
+        "_lecturer_sister_id": "a1e4bbf2-060d-434b-bc4f-2e9b40a21b2b",
+        "_lecturer_email": "",
+        "_lecturer_nik": "3206382712780019",
+        "_lecturer_nidn": "",
+        "_lecturer_nuptk": "",
+        "_lecturer_program_id": "145",
+        "_lecturer_education": "",
+        "_lecturer_gelar": ""
+      }
+    },
+    {
+      "source_id": 358,
+      "title": "ACEP FAIZAL RAMDAN",
+      "slug": "acep-faizal-ramdan",
+      "post_parent": 0,
+      "thumbnail_id": 495,
+      "meta": {
+        "_lecturer_last_synced_at": "2026-06-28 04:43:29",
+        "_lecturer_gender": "L",
+        "_lecturer_tempat_lahir": "Garut",
+        "_lecturer_tanggal_lahir": "1982-04-26",
+        "_lecturer_position": "Dosen Pengajar",
+        "_lecturer_sister_id": "f9c295d5-c37e-4e44-9e2a-9a744f78ee86",
+        "_lecturer_email": "",
+        "_lecturer_nik": "3205382604820004",
+        "_lecturer_nidn": "",
+        "_lecturer_nuptk": "",
+        "_lecturer_program_id": "141",
+        "_lecturer_education": "",
+        "_lecturer_gelar": ""
+      }
+    },
+    {
+      "source_id": 359,
+      "title": "AGUS SAMSUL BASSAR",
+      "slug": "agus-samsul-bassar",
+      "post_parent": 0,
+      "thumbnail_id": 780,
+      "meta": {
+        "_lecturer_last_synced_at": "2026-06-28 04:43:56",
+        "_lecturer_gender": "L",
+        "_lecturer_tempat_lahir": "Tasikmalaya",
+        "_lecturer_tanggal_lahir": "1967-02-02",
+        "_lecturer_position": "Dosen Pengajar",
+        "_thumbnail_id": "780",
+        "_lecturer_photo_hash": "d0b856a3dc0f3c719f183dcb53fe90f8",
+        "_lecturer_publications": "Representasi Self Control Dalam Meminimalisasi Internet Addiction | 2024-06-17\nImplementasi nilai-ni...",
+        "_lecturer_community_service": "UPGRADING I LDTQN Suryalaya | 2018\nPEMBINAAN IKHWAN TQN SURYALAYA | 2018",
+        "_lecturer_sister_id": "3cd8e28b-fab2-401d-a48a-911561b32636",
+        "_lecturer_email": "asamsulbassar@yahoo.com",
+        "_lecturer_nik": "3206380202670001",
+        "_lecturer_nidn": "2102026701",
+        "_lecturer_nuptk": "5534745647200032",
+        "_lecturer_program_id": "135",
+        "_lecturer_education": "S.Ag (S1) Agama Islam | Institut Agama Islam Latifah Mubarokiyah (IAILM) Suryalaya Tasikmalaya | 199...",
+        "_lecturer_gelar": "S.Ag, M.M.Pd"
+      }
+    },
+    {
+      "source_id": 374,
+      "title": "JAMALUDIN",
+      "slug": "dudi-jamaludin",
+      "post_parent": 0,
+      "thumbnail_id": 791,
+      "meta": {
+        "_lecturer_last_synced_at": "2026-06-28 04:44:43",
+        "_lecturer_gender": "L",
+        "_lecturer_tempat_lahir": "GARUT",
+        "_lecturer_tanggal_lahir": "1972-07-06",
+        "_lecturer_sister_id": "f518c8fd-ac01-45e5-8d42-b12324e3d681",
+        "_lecturer_email": "Elimbangijamal@gmail.com",
+        "_lecturer_address": "Kp. Cukanggaleuh",
+        "_lecturer_nik": "3205380607720002",
+        "_lecturer_nidn": "2006077201",
+        "_lecturer_nuptk": "1038750651130193",
+        "_lecturer_program_id": "150",
+        "_lecturer_education": "S.Ag (S1) Humaniora | Universitas Islam Negeri Sunan Gunung Jati | 1996\nM.Ag (S2) Humaniora | Univer...",
+        "_lecturer_gelar": "S.Ag, M.Ag, Dr"
+      }
+    },
+    {
+      "source_id": 380,
+      "title": "FITRI ANNISA",
+      "slug": "fitri-annisa",
+      "post_parent": 0,
+      "thumbnail_id": 796,
+      "meta": {
+        "_lecturer_last_synced_at": "2026-06-28 04:45:12",
+        "_lecturer_gender": "P",
+        "_lecturer_tempat_lahir": "Tasikmalaya",
+        "_lecturer_tanggal_lahir": "1983-12-22",
+        "_lecturer_publications": "PENGARUH PENGGUNAAN METODE PERMAINAN TERHADAP PENINGKATAN PENGUASAAN KOSA KATA BAHASA INGGRIS | 2018...",
+        "_lecturer_sister_id": "494b28c5-c0f0-473d-8318-06a5c7977edb",
+        "_lecturer_email": "fitriannisa2902@gmail.com",
+        "_lecturer_address": "Perumahan Taman Putri Blok L 9",
+        "_lecturer_nik": "3206376212830003",
+        "_lecturer_nidn": "2122128301",
+        "_lecturer_nuptk": "0554761662231033",
+        "_lecturer_program_id": "139",
+        "_lecturer_education": "S.S (S1) ILMU BAHASA | Sekolah Tinggi Bahasa Asing Sebelas April Sumedang | 2007\nM.Pd (S2) ILMU BAHA...",
+        "_lecturer_gelar": "S.S, M.Pd"
+      }
+    },
+    {
+      "source_id": 396,
+      "title": "NANA SURYANA",
+      "slug": "nana-suryana",
+      "post_parent": 0,
+      "thumbnail_id": 806,
+      "meta": {
+        "_lecturer_last_synced_at": "2026-06-28 04:45:50",
+        "_lecturer_gender": "L",
+        "_lecturer_tempat_lahir": "Tasikmalaya",
+        "_lecturer_tanggal_lahir": "1973-08-02",
+        "_lecturer_publications": "Manjemen Pendidikan Sekolah Dasar: Konsep dan Implementasi | 2024-09-26\nOperasionalisasi Model, Meto...",
+        "_lecturer_sister_id": "50cc24ea-2e4b-4cb7-b3c1-7ad10d52779c",
+        "_lecturer_email": "suryanaaljoe@gmail.com",
+        "_lecturer_nik": "3206380208730003",
+        "_lecturer_nidn": "2102087301",
+        "_lecturer_nuptk": "3134751654200003",
+        "_lecturer_program_id": "139",
+        "_lecturer_education": "S.Ag (S1) Agama Islam | Institut Agama Islam Latifah Mubarokiyah (IAILM) Suryalaya Tasikmalaya | 199...",
+        "_lecturer_gelar": "S.Ag, M.Pd"
+      }
+    },
+    {
+      "source_id": 402,
+      "title": "OYIB SULAEMAN",
+      "slug": "oyib-sulaeman",
+      "post_parent": 0,
+      "thumbnail_id": 812,
+      "meta": {
+        "_lecturer_last_synced_at": "2026-06-28 04:46:27",
+        "_lecturer_gender": "L",
+        "_lecturer_tempat_lahir": "Majalengka",
+        "_lecturer_tanggal_lahir": "1970-04-28",
+        "_lecturer_publications": "Konsep Nilai-nilai Pendidikan Budi Pekerti Menurut Ki Hadjar Dewantara dan Relevansinya Dalam Kontek...",
+        "_lecturer_sister_id": "059e8599-21bc-4e97-8a98-29edd7051813",
+        "_lecturer_email": "oyib.sula@gmail.com",
+        "_lecturer_address": "Kp. Godebag",
+        "_lecturer_nik": "3206382804700003",
+        "_lecturer_nidn": "2128047001",
+        "_lecturer_nuptk": "9760748649130112",
+        "_lecturer_program_id": "139",
+        "_lecturer_education": "S.Ag (S1) Agama Islam | Institut Agama Islam Latifah Mubarokiyah (IAILM) Suryalaya Tasikmalaya | 202...",
+        "_lecturer_gelar": "S.Ag, M.S.I"
+      }
+    },
+    {
+      "source_id": 403,
+      "title": "RADEN ASEP HAMDAN MUNAWAR",
+      "slug": "raden-asep-hamdan-munawar",
+      "post_parent": 0,
+      "thumbnail_id": 813,
+      "meta": {
+        "_lecturer_last_synced_at": "2026-06-28 04:46:33",
+        "_lecturer_gender": "L",
+        "_lecturer_tempat_lahir": "Sumedang",
+        "_lecturer_tanggal_lahir": "1975-07-17",
+        "_lecturer_research": "Praktek Moderasi Beragama di Tarekat QOdiriyah Naqsabandiyah Suryalaya Tasikmalaya | 2024",
+        "_lecturer_sister_id": "d9d4db0d-54b1-4744-b28d-a1b95aa9e919",
+        "_lecturer_email": "asephamdaniailm@gmail.com",
+        "_lecturer_address": "Perum Sindang Amanah Blok D33",
+        "_lecturer_nik": "3211181707750005",
+        "_lecturer_nidn": "2117077501",
+        "_lecturer_nuptk": "8049753654130143",
+        "_lecturer_program_id": "150",
+        "_lecturer_education": "S.Ag (S1) Humaniora | Universitas Islam Negeri Sunan Gunung Jati | 1999\nM.Si (S2) Humaniora | Univer...",
+        "_lecturer_gelar": "S.Ag, M.Si, Dr"
+      }
+    },
+    {
+      "source_id": 445,
+      "title": "DUDI JAMALUDIN",
+      "slug": "dudi-jamaludin-2",
+      "post_parent": 0,
+      "thumbnail_id": 829,
+      "meta": {
+        "_lecturer_last_synced_at": "2026-06-28 04:47:23",
+        "_lecturer_gender": "L",
+        "_lecturer_tempat_lahir": "TASIKMALAYA",
+        "_lecturer_tanggal_lahir": "1986-11-07",
+        "_lecturer_sister_id": "719e7a20-e3f0-4db4-959e-72a1e54413bd",
+        "_lecturer_email": "dudyjamal919@gmail.com",
+        "_lecturer_address": "KP. CIKORANJI",
+        "_lecturer_nik": "3206380611860001",
+        "_lecturer_nidn": "2107118603",
+        "_lecturer_nuptk": "9439764665130233",
+        "_lecturer_program_id": "141",
+        "_lecturer_education": "S.H.I (S1) Humaniora | Institut Agama Islam Latifah Mubarokiyah (IAILM) Suryalaya Tasikmalaya | 2009...",
+        "_lecturer_gelar": "S.H.I, S.H.I, M.Ag",
+        "_lecturer_position": "Dosen Pengajar",
+        "_lecturer_jabatan_fungsional": "",
+        "_lecturer_phone": "0812-3456-7890",
+        "_lecturer_research": "",
+        "_lecturer_publications": ""
+      }
+    }
+  ],
+
+  "news": [
+    {
+      "source_id": 160,
+      "title": "Festival Tarbiyah 2026: Momentum Cetak Generasi Cageur Bageur",
+      "slug": "festival-tarbiyah-2026-momentum-cetak-generasi-cageur-bageur",
+      "post_parent": 0,
+      "content": "Fakultas Tarbiyah IAILM Suryalaya sukses menggelar Festival Tarbiyah 2026. Kegiatan ini merupakan panggung kreativitas mahasiswa dalam bidang kepengajaran, lomba pidato ilmiah, dan kajian tasawuf sosi...",
+      "thumbnail_id": 161,
+      "news_category": ["akademik"]
+    },
+    {
+      "source_id": 162,
+      "title": "Perkuat Sinergi Akademik, Kaprodi PIAUD Laksanakan Visiting Lecture di UIN Malang",
+      "slug": "perkuat-sinergi-akademik-kaprodi-piaud-laksanakan-visiting-lecture-di-uin-malang",
+      "post_parent": 0,
+      "content": "Dalam upaya memperluas jaringan riset pengajaran anak usia dini, Ketua Program Studi PIAUD IAILM Suryalaya melaksanakan Visiting Lecture dan Pengabdian Kepada Masyarakat (PKM) di UIN Maulana Malik Ibr...",
+      "thumbnail_id": 163,
+      "news_category": ["kerjasama"]
+    },
+    {
+      "source_id": 164,
+      "title": "IAILM Suryalaya Tandatangani MoU Kerjasama Jurnal Ilmiah Internasional",
+      "slug": "iailm-suryalaya-tandatangani-mou-kerjasama-jurnal-ilmiah-internasional",
+      "post_parent": 0,
+      "content": "Lembaga Penelitian dan Pengabdian Masyarakat (LPPM) IAILM secara resmi menandatangani kesepakatan kerjasama peningkatan mutu jurnal ilmiah terakreditasi nasional SINTA dengan beberapa perguruan tinggi...",
+      "thumbnail_id": 165,
+      "news_category": ["riset-jurnal"]
+    },
+    {
+      "source_id": 247,
+      "title": "EduCampus Raih Akreditasi Unggul dari BAN-PT untuk 10 Program Studi",
+      "slug": "akreditasi-unggul-banpt",
+      "post_parent": 0,
+      "content": "<p>Kabar membanggakan datang dari EduCampus. Sebanyak 10 program studi (prodi) di lingkungan universitas berhasil meraih akreditasi unggul dari Badan Akreditasi Nasional Perguruan Tinggi (BAN-PT). Pen...",
+      "thumbnail_id": 251,
+      "news_category": ["18"]
+    },
+    {
+      "source_id": 248,
+      "title": "Mahasiswa KKN EduCampus Ciptakan Inovasi Pengolahan Sampah Plastik di Desa Binaan",
+      "slug": "kkn-inovasi-sampah-plastik",
+      "post_parent": 0,
+      "content": "<p>Mahasiswa Kuliah Kerja Nyata (KKN) EduCampus angkatan 2026 kembali menunjukkan aksi nyata mereka dalam pengabdian kepada masyarakat. Kelompok KKN yang bertugas di Desa Sukamaju, Kabupaten Bandung, ...",
+      "thumbnail_id": 252,
+      "news_category": ["kemahasiswaan"]
+    },
+    {
+      "source_id": 249,
+      "title": "Dosen EduCampus Kembangkan Sistem Deteksi Dini Bencana Alam Berbasis IoT",
+      "slug": "dosen-iot-deteksi-bencana",
+      "post_parent": 0,
+      "content": "<p>Sebuah terobosan signifikan di bidang mitigasi bencana datang dari Fakultas Sains dan Teknologi EduCampus. Tim riset yang diketuai oleh Dr. Rina Wijaya, S.Si., M.T. berhasil mengembangkan sistem de...",
+      "thumbnail_id": 253,
+      "news_category": ["riset"]
+    },
+    {
+      "source_id": 250,
+      "title": "Mahasiswa EduCampus Juara Umum Lomba Debat Bahasa Arab Tingkat Nasional",
+      "slug": "juara-debat-bahasa-arab",
+      "post_parent": 0,
+      "content": "<p>Prestasi gemilang kembali diraih oleh mahasiswa EduCampus. Tim debat bahasa Arab universitas berhasil menjadi juara umum dalam ajang Nasional Arabic Debate Championship (NADEC) 2026 yang diselengga...",
+      "thumbnail_id": 254,
+      "news_category": ["prestasi"]
+    }
+  ],
+
+  "other_post_types": {
+    "events": [
+      {
+        "source_id": 166,
+        "title": "Festival Tarbiyah IAILM Suryalaya 2026",
+        "slug": "festival-tarbiyah-iailm-suryalaya-2026",
+        "thumbnail_id": 167
+      },
+      {
+        "source_id": 168,
+        "title": "Ujian Akhir Semester (UAS) Genap T.A. 2025/2026",
+        "slug": "ujian-akhir-semester-uas-genap-t-a-2025-2026",
+        "thumbnail_id": 169
+      }
+    ],
+    "announcements": [
+      {
+        "source_id": 23,
+        "title": "cek test",
+        "slug": "cek-test",
+        "post_parent": 0
+      }
+    ],
+    "dokumen": [
+      {
+        "source_id": 331,
+        "title": "Example",
+        "slug": "example",
+        "meta": {
+          "_dokumen_file": "{{SITE_URL}}/wp-content/uploads/2026/06/Ycoza3lZrUG7Hl1ip6fyeSuEggJJiUYk4dDA85Pi-1.pdf",
+          "_dokumen_view_count": "8",
+          "_dokumen_download_count": "2"
+        }
+      }
+    ],
+    "pages": [
+      {"source_id": 27, "title": "Profile", "slug": "profile", "post_parent": 0},
+      {"source_id": 290, "title": "Struktur Organisasi", "slug": "struktur-organisasi", "post_parent": 0},
+      {"source_id": 302, "title": "Visi Misi", "slug": "visi-misi", "post_parent": 0},
+      {"source_id": 58, "title": "Profil Kampus", "slug": "profil-kampus", "post_parent": 0},
+      {"source_id": 59, "title": "Penerimaan Mahasiswa Baru", "slug": "penerimaan-mahasiswa-baru", "post_parent": 0},
+      {"source_id": 339, "title": "Sejarah", "slug": "sejarah", "post_parent": 0},
+      {"source_id": 342, "title": "Jati Diri dan Nilai Dasar", "slug": "jati-diri-dan-simbol", "post_parent": 0},
+      {"source_id": 347, "title": "Lambang dan Identitas", "slug": "lambang-dan-identitas", "post_parent": 0}
+    ]
+  },
+
+  "thumbnail_id_remap_guide": {
+    "description": "The thumbnail_id values in lectures/news/etc refer to ATTACHMENT source_ids. You must create each attachment FIRST, then use the NEW WordPress post ID for _thumbnail_id.",
+    "faculty_thumbnails": {
+      "128 (Fakultas Tarbiyah)": "thumbnail_id=null (no attachment)",
+      "129 (Fakultas Syariah)": "thumbnail_id=130 -> attachment source_id 130 (featured-129-photo)",
+      "131 (Fakultas Dakwah)": "thumbnail_id=132 -> attachment source_id 132 (featured-131-photo)",
+      "133 (Program Pascasarjana)": "thumbnail_id=134 -> attachment source_id 134 (featured-133-photo)"
+    },
+    "program_thumbnails": {
+      "135 (PAI)": "thumbnail_id=136 -> attachment source_id 136",
+      "137 (PIAUD)": "thumbnail_id=138 -> attachment source_id 138",
+      "139 (PGMI)": "thumbnail_id=140 -> attachment source_id 140",
+      "141 (HES)": "thumbnail_id=142 -> attachment source_id 142",
+      "143 (Ekonomi Syariah)": "thumbnail_id=144 -> attachment source_id 144",
+      "145 (KPI)": "thumbnail_id=146 -> attachment source_id 146",
+      "147 (Ilmu Tasawuf)": "thumbnail_id=null",
+      "148 (MPI)": "thumbnail_id=149 -> attachment source_id 149",
+      "150 (S2 Tasawuf)": "thumbnail_id=151 -> attachment source_id 151"
+    },
+    "news_thumbnails": {
+      "160": "thumbnail_id=161",
+      "162": "thumbnail_id=163",
+      "164": "thumbnail_id=165",
+      "247": "thumbnail_id=251",
+      "248": "thumbnail_id=252",
+      "249": "thumbnail_id=253",
+      "250": "thumbnail_id=254"
+    }
+  },
+
+  "id_remap_summary": {
+    "description": "Cross-reference map: old_source_id -> new_wp_id. Build this during import.",
+    "faculty": {
+      "128": "new_faculty_1",
+      "129": "new_faculty_2",
+      "131": "new_faculty_3",
+      "133": "new_faculty_4"
+    },
+    "program_faculty_refs": {
+      "128": "Fakultas Tarbiyah",
+      "129": "Fakultas Syariah",
+      "131": "Fakultas Dakwah",
+      "133": "Program Pascasarjana"
+    }
+  }
+}
